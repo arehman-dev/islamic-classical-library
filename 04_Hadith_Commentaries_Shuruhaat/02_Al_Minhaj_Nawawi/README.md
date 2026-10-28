@@ -14,4 +14,4 @@ The premier classical commentary on Sahih Muslim, combining profound legal juris
 
 ## Files Available
 - [Complete Markdown Text](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/02_Al_Minhaj_Nawawi/02_Al_Minhaj_Nawawi_Complete.md)
-- [Complete Plain Text (.txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/02_Al_Minhaj_Nawawi/02_Al_Minhaj_Nawawi_Complete.txt)
+- [Complete Text (.md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/02_Al_Minhaj_Nawawi/02_Al_Minhaj_Nawawi_Complete.md)

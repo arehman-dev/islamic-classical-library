@@ -11,4 +11,4 @@
 
 ## Available Files
 - [Clean Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/02_Usool_al_Hadith/Nukhbat_al_Fikar_Ibn_Hajar/Nukhbat_al_Fikar_Ibn_Hajar_Arabic.md)
-- [Clean Arabic Critical Text (Plain Text)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/02_Usool_al_Hadith/Nukhbat_al_Fikar_Ibn_Hajar/Nukhbat_al_Fikar_Ibn_Hajar_Arabic.txt)
+- [Clean Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/02_Usool_al_Hadith/Nukhbat_al_Fikar_Ibn_Hajar/Nukhbat_al_Fikar_Ibn_Hajar_Arabic.md)

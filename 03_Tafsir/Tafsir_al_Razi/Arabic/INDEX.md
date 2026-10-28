@@ -2,7 +2,7 @@
 - **Author**: Fakhr al-Din al-Razi (544-606 AH / 1149-1209 CE)
 - **Language**: Arabic
 - **Available Surahs**: 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

@@ -2,7 +2,7 @@
 - **Author**: Al-Hafidh Ibn Kathir (English translation by Darussalam / Scholars)
 - **Language**: English
 - **Available Surahs**: 114 of 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

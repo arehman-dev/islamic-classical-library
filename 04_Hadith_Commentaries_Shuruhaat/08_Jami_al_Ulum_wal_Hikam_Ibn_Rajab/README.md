@@ -14,4 +14,4 @@ Universally considered the finest classical commentary on Nawawi's Forty Hadith,
 
 ## Files Available
 - [Complete Markdown Text](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/08_Jami_al_Ulum_wal_Hikam_Ibn_Rajab/08_Jami_al_Ulum_wal_Hikam_Ibn_Rajab_Complete.md)
-- [Complete Plain Text (.txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/08_Jami_al_Ulum_wal_Hikam_Ibn_Rajab/08_Jami_al_Ulum_wal_Hikam_Ibn_Rajab_Complete.txt)
+- [Complete Text (.md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/08_Jami_al_Ulum_wal_Hikam_Ibn_Rajab/08_Jami_al_Ulum_wal_Hikam_Ibn_Rajab_Complete.md)

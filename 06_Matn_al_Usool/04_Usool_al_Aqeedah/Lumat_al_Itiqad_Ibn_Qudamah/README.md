@@ -11,4 +11,4 @@
 
 ## Available Files
 - [Clean Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Lumat_al_Itiqad_Ibn_Qudamah/Lumat_al_Itiqad_Ibn_Qudamah_Arabic.md)
-- [Clean Arabic Critical Text (Plain Text)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Lumat_al_Itiqad_Ibn_Qudamah/Lumat_al_Itiqad_Ibn_Qudamah_Arabic.txt)
+- [Clean Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Lumat_al_Itiqad_Ibn_Qudamah/Lumat_al_Itiqad_Ibn_Qudamah_Arabic.md)

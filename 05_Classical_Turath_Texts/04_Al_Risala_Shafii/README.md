@@ -51,4 +51,4 @@ Imam al-Shafi'i divides divine clarification (*al-Bayan*) into five distinct cat
 
 ## Available Files in This Library
 - [Complete Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/04_Al_Risala_Shafii/04_Al_Risala_Shafii_Arabic.md) (72,081 words, verified OpenITI manuscript)
-- [Complete Arabic Critical Text (Plain Text)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/04_Al_Risala_Shafii/04_Al_Risala_Shafii_Arabic.txt)
+- [Complete Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/04_Al_Risala_Shafii/04_Al_Risala_Shafii_Arabic.md)

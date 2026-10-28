@@ -15,4 +15,4 @@ Earliest surviving theological primer in Sunni Islam, establishing core tenets o
 
 ## Available Files
 - [Clean Arabic Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/02_Al_Fiqh_al_Akbar/02_Al_Fiqh_al_Akbar_Arabic.md)
-- [Clean Arabic Text (Plain Text .txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/02_Al_Fiqh_al_Akbar/02_Al_Fiqh_al_Akbar_Arabic.txt)
+- [Clean Arabic Text (Markdown .md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/02_Al_Fiqh_al_Akbar/02_Al_Fiqh_al_Akbar_Arabic.md)

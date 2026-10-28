@@ -2,7 +2,7 @@
 - **Author**: Al-Hafidh Ibn Kathir al-Dimashqi (700-774 AH / 1300-1373 CE)
 - **Language**: Arabic
 - **Available Surahs**: 114 of 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

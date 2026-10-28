@@ -14,4 +14,4 @@ Celebrated Andalusian commentary expounding the legal tenets, linguistic raritie
 
 ## Files Available
 - [Complete Markdown Text](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/07_Al_Qabas_Sharh_Muwatta_Ibn_Arabi/07_Al_Qabas_Sharh_Muwatta_Ibn_Arabi_Complete.md)
-- [Complete Plain Text (.txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/07_Al_Qabas_Sharh_Muwatta_Ibn_Arabi/07_Al_Qabas_Sharh_Muwatta_Ibn_Arabi_Complete.txt)
+- [Complete Text (.md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/07_Al_Qabas_Sharh_Muwatta_Ibn_Arabi/07_Al_Qabas_Sharh_Muwatta_Ibn_Arabi_Complete.md)

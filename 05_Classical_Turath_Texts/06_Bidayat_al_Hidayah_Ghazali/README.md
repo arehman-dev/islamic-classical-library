@@ -55,4 +55,4 @@ Uprooting the three root spiritual poisons:
 
 ## Available Files
 - [Complete Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/06_Bidayat_al_Hidayah_Ghazali/06_Bidayat_al_Hidayah_Ghazali_Arabic.md) (15,004 words, verified OpenITI edition)
-- [Complete Arabic Critical Text (Plain Text)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/06_Bidayat_al_Hidayah_Ghazali/06_Bidayat_al_Hidayah_Ghazali_Arabic.txt)
+- [Complete Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/06_Bidayat_al_Hidayah_Ghazali/06_Bidayat_al_Hidayah_Ghazali_Arabic.md)

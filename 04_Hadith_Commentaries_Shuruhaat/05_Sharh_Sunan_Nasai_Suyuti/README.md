@@ -14,4 +14,4 @@ Classical analytical gloss by Imam al-Suyuti clarifying the subtle juristic head
 
 ## Files Available
 - [Complete Markdown Text](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/05_Sharh_Sunan_Nasai_Suyuti/05_Sharh_Sunan_Nasai_Suyuti_Complete.md)
-- [Complete Plain Text (.txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/05_Sharh_Sunan_Nasai_Suyuti/05_Sharh_Sunan_Nasai_Suyuti_Complete.txt)
+- [Complete Text (.md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/05_Sharh_Sunan_Nasai_Suyuti/05_Sharh_Sunan_Nasai_Suyuti_Complete.md)

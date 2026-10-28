@@ -2,7 +2,7 @@
 - **Author**: Shaykh Abd al-Rahman ibn Nasir al-Sa'di (1307-1376 AH / 1889-1956 CE)
 - **Language**: Arabic
 - **Available Surahs**: 114 of 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

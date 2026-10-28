@@ -2,7 +2,7 @@
 - **Author**: Imam Muhammad ibn Jarir al-Tabari (224-310 AH / 839-923 CE)
 - **Language**: Arabic
 - **Available Surahs**: 114 of 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

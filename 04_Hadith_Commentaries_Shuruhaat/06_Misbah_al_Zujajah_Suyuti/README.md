@@ -14,4 +14,4 @@ Classical explanatory notes and lexical clarifications on Sunan Ibn Majah by Ima
 
 ## Files Available
 - [Complete Markdown Text](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/06_Misbah_al_Zujajah_Suyuti/06_Misbah_al_Zujajah_Suyuti_Complete.md)
-- [Complete Plain Text (.txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/06_Misbah_al_Zujajah_Suyuti/06_Misbah_al_Zujajah_Suyuti_Complete.txt)
+- [Complete Text (.md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/06_Misbah_al_Zujajah_Suyuti/06_Misbah_al_Zujajah_Suyuti_Complete.md)

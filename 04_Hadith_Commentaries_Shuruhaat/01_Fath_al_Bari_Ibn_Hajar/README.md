@@ -14,4 +14,4 @@ The undisputed master commentary on Sahih al-Bukhari, described by scholars as: 
 
 ## Files Available
 - [Complete Markdown Text](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/01_Fath_al_Bari_Ibn_Hajar/01_Fath_al_Bari_Ibn_Hajar_Complete.md)
-- [Complete Plain Text (.txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/01_Fath_al_Bari_Ibn_Hajar/01_Fath_al_Bari_Ibn_Hajar_Complete.txt)
+- [Complete Text (.md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/01_Fath_al_Bari_Ibn_Hajar/01_Fath_al_Bari_Ibn_Hajar_Complete.md)

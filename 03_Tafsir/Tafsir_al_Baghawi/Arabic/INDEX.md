@@ -2,7 +2,7 @@
 - **Author**: Al-Husayn ibn Mas'ud al-Baghawi (433-516 AH / 1041-1122 CE)
 - **Language**: Arabic
 - **Available Surahs**: 114 of 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

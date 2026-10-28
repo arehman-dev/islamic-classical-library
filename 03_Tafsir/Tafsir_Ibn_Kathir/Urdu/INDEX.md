@@ -2,7 +2,7 @@
 - **Author**: Al-Hafidh Ibn Kathir (Urdu translation by Maulana Muhammad Juna Garhi)
 - **Language**: Urdu
 - **Available Surahs**: 114 of 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

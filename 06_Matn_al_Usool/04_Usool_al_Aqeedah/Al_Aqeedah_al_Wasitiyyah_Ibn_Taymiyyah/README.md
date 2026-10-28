@@ -11,4 +11,4 @@
 
 ## Available Files
 - [Clean Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Al_Aqeedah_al_Wasitiyyah_Ibn_Taymiyyah/Al_Aqeedah_al_Wasitiyyah_Ibn_Taymiyyah_Arabic.md)
-- [Clean Arabic Critical Text (Plain Text)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Al_Aqeedah_al_Wasitiyyah_Ibn_Taymiyyah/Al_Aqeedah_al_Wasitiyyah_Ibn_Taymiyyah_Arabic.txt)
+- [Clean Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Al_Aqeedah_al_Wasitiyyah_Ibn_Taymiyyah/Al_Aqeedah_al_Wasitiyyah_Ibn_Taymiyyah_Arabic.md)

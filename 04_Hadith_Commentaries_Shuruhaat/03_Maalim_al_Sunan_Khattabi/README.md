@@ -14,4 +14,4 @@ The earliest commentary written on Sunan Abi Dawud and one of the pioneering Had
 
 ## Files Available
 - [Complete Markdown Text](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/03_Maalim_al_Sunan_Khattabi/03_Maalim_al_Sunan_Khattabi_Complete.md)
-- [Complete Plain Text (.txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/03_Maalim_al_Sunan_Khattabi/03_Maalim_al_Sunan_Khattabi_Complete.txt)
+- [Complete Text (.md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/03_Maalim_al_Sunan_Khattabi/03_Maalim_al_Sunan_Khattabi_Complete.md)

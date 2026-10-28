@@ -2,7 +2,7 @@
 - **Author**: Muhammad ibn Ali al-Shawkani (1173-1250 AH / 1759-1834 CE)
 - **Language**: Arabic
 - **Available Surahs**: 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

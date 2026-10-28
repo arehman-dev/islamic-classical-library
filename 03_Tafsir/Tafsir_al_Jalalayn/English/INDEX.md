@@ -2,7 +2,7 @@
 - **Author**: Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza)
 - **Language**: English
 - **Available Surahs**: 114 of 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

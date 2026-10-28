@@ -15,13 +15,13 @@ This section contains the classical primers (*Al-Mutun al-Asliyyah*) studied uni
 ### 1. Usool al-Tafsir (أصول التفسير)
 | Primer | Author / Era | Formats | Local Directory |
 | :--- | :--- | :--- | :--- |
-| **Muqaddimah fi Usul al-Tafsir** | Shaykh al-Islam Ibn Taymiyyah (728 AH) | Arabic Critical Text (`.md`, `.txt`) | [`01_Usool_al_Tafsir/Muqaddimah_fi_Usul_al_Tafsir_Ibn_Taymiyyah/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/01_Usool_al_Tafsir/Muqaddimah_fi_Usul_al_Tafsir_Ibn_Taymiyyah/) |
+| **Muqaddimah fi Usul al-Tafsir** | Shaykh al-Islam Ibn Taymiyyah (728 AH) | Arabic Critical Text (`.md`) | [`01_Usool_al_Tafsir/Muqaddimah_fi_Usul_al_Tafsir_Ibn_Taymiyyah/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/01_Usool_al_Tafsir/Muqaddimah_fi_Usul_al_Tafsir_Ibn_Taymiyyah/) |
 
 ### 2. Usool al-Hadith & Mustalah (أصول الحديث ومصطلح الأثر)
 | Primer | Author / Era | Formats | Local Directory |
 | :--- | :--- | :--- | :--- |
-| **Nukhbat al-Fikar** | Al-Hafidh Ibn Hajar al-Asqalani (852 AH) | Arabic Critical Text (`.md`, `.txt`) | [`02_Usool_al_Hadith/Nukhbat_al_Fikar_Ibn_Hajar/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/02_Usool_al_Hadith/Nukhbat_al_Fikar_Ibn_Hajar/) |
-| **Al-Manzumah al-Bayquniyyah** | Umar al-Bayquni (c. 1080 AH) | Arabic Poem + English Translation (`.md`, `.txt`) | [`02_Usool_al_Hadith/Al_Manzumah_al_Bayquniyyah/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/02_Usool_al_Hadith/Al_Manzumah_al_Bayquniyyah/) |
+| **Nukhbat al-Fikar** | Al-Hafidh Ibn Hajar al-Asqalani (852 AH) | Arabic Critical Text (`.md`) | [`02_Usool_al_Hadith/Nukhbat_al_Fikar_Ibn_Hajar/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/02_Usool_al_Hadith/Nukhbat_al_Fikar_Ibn_Hajar/) |
+| **Al-Manzumah al-Bayquniyyah** | Umar al-Bayquni (c. 1080 AH) | Arabic Poem + English Translation (`.md`) | [`02_Usool_al_Hadith/Al_Manzumah_al_Bayquniyyah/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/02_Usool_al_Hadith/Al_Manzumah_al_Bayquniyyah/) |
 
 ### 3. Usool al-Fiqh (أصول الفقه)
 | Primer | Author / Era | Formats | Local Directory |
@@ -32,7 +32,7 @@ This section contains the classical primers (*Al-Mutun al-Asliyyah*) studied uni
 | Primer | Author / Era | Formats | Local Directory |
 | :--- | :--- | :--- | :--- |
 | **Al-Aqeedah al-Wasitiyyah** | Shaykh al-Islam Ibn Taymiyyah (728 AH) | Arabic Critical Text + English Translation | [`04_Usool_al_Aqeedah/Al_Aqeedah_al_Wasitiyyah_Ibn_Taymiyyah/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Al_Aqeedah_al_Wasitiyyah_Ibn_Taymiyyah/) |
-| **Lum'at al-I'tiqad** | Muwaffaq al-Din Ibn Qudamah (620 AH) | Arabic Critical Text (`.md`, `.txt`) | [`04_Usool_al_Aqeedah/Lumat_al_Itiqad_Ibn_Qudamah/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Lumat_al_Itiqad_Ibn_Qudamah/) |
+| **Lum'at al-I'tiqad** | Muwaffaq al-Din Ibn Qudamah (620 AH) | Arabic Critical Text (`.md`) | [`04_Usool_al_Aqeedah/Lumat_al_Itiqad_Ibn_Qudamah/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Lumat_al_Itiqad_Ibn_Qudamah/) |
 | **Al-Usul al-Thalathah** | Shaykh Muhammad ibn Abd al-Wahhab (1206 AH) | Arabic Critical Text + English Translation | [`04_Usool_al_Aqeedah/Al_Usul_al_Thalathah/`](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Al_Usul_al_Thalathah/) |
 
 ---

@@ -15,4 +15,4 @@ Classical concise article of faith and spiritual advice dictated by Imam Abu Han
 
 ## Available Files
 - [Clean Arabic Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/03_Al_Wasiyyah_Abu_Hanifa/03_Al_Wasiyyah_Abu_Hanifa_Arabic.md)
-- [Clean Arabic Text (Plain Text .txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/03_Al_Wasiyyah_Abu_Hanifa/03_Al_Wasiyyah_Abu_Hanifa_Arabic.txt)
+- [Clean Arabic Text (Markdown .md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/03_Al_Wasiyyah_Abu_Hanifa/03_Al_Wasiyyah_Abu_Hanifa_Arabic.md)

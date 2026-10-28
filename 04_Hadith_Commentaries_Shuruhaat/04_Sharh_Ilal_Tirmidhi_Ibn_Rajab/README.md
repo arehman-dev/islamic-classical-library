@@ -14,4 +14,4 @@ Masterwork on Hadith methodology, narrator criticism, and technical deficiencies
 
 ## Files Available
 - [Complete Markdown Text](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/04_Sharh_Ilal_Tirmidhi_Ibn_Rajab/04_Sharh_Ilal_Tirmidhi_Ibn_Rajab_Complete.md)
-- [Complete Plain Text (.txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/04_Sharh_Ilal_Tirmidhi_Ibn_Rajab/04_Sharh_Ilal_Tirmidhi_Ibn_Rajab_Complete.txt)
+- [Complete Text (.md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/05_Hadith_Commentaries_Shuruhaat/04_Sharh_Ilal_Tirmidhi_Ibn_Rajab/04_Sharh_Ilal_Tirmidhi_Ibn_Rajab_Complete.md)

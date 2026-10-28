@@ -2,7 +2,7 @@
 - **Author**: Abu al-Hasan Ali ibn Ahmad al-Wahidi al-Naysaburi (d. 468 AH / 1076 CE)
 - **Language**: English
 - **Available Surahs**: 75
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)

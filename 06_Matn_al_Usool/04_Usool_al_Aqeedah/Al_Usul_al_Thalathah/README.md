@@ -11,4 +11,4 @@
 
 ## Available Files
 - [Clean Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Al_Usul_al_Thalathah/Al_Usul_al_Thalathah_Arabic.md)
-- [Clean Arabic Critical Text (Plain Text)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Al_Usul_al_Thalathah/Al_Usul_al_Thalathah_Arabic.txt)
+- [Clean Arabic Critical Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/06_Matn_al_Usool/04_Usool_al_Aqeedah/Al_Usul_al_Thalathah/Al_Usul_al_Thalathah_Arabic.md)

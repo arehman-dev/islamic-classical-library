@@ -15,4 +15,4 @@ Classical Hanbali creed exposition outlining adherence to the traditions of the 
 
 ## Available Files
 - [Clean Arabic Text (Markdown)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/05_Sharh_al_Sunnah_Barbahari/05_Sharh_al_Sunnah_Barbahari_Arabic.md)
-- [Clean Arabic Text (Plain Text .txt)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/05_Sharh_al_Sunnah_Barbahari/05_Sharh_al_Sunnah_Barbahari_Arabic.txt)
+- [Clean Arabic Text (Markdown .md)](file:///home/arehman/00-code/00-projects/islamic_classical_library/04_Classical_Turath_Texts/05_Sharh_al_Sunnah_Barbahari/05_Sharh_al_Sunnah_Barbahari_Arabic.md)

@@ -2,7 +2,7 @@
 - **Author**: Mahmud ibn Umar al-Zamakhshari (467-538 AH / 1075-1144 CE)
 - **Language**: Arabic
 - **Available Surahs**: 114
-- **Format**: Markdown (.md) and Plain Text (.txt) per Surah
+- **Format**: Standard Markdown (.md) per Surah
 
 ### Surah Directory
 - [Surah 001](surahs/Surah_001.md) (7 ayahs commented)
