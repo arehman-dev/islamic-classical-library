@@ -1,0 +1,32 @@
+---
+surah_number: 99
+surah_name_ar: "سُورَةُ الزَّلۡزَلَةِ"
+surah_name_en: "Az-Zalzala"
+english_meaning: "The Earthquake"
+revelation_type: "Medinan"
+total_ayahs: 8
+language: "Urdu"
+translator: "Fateh Muhammad Jalandhari"
+---
+
+## Surah 099: Az-Zalzala (سُورَةُ الزَّلۡزَلَةِ)
+- **English Translation**: The Earthquake
+- **Revelation Type**: Medinan
+- **Total Ayahs**: 8
+
+**[1]** جب زمین بھونچال سے ہلا دی جائے گی
+
+**[2]** اور زمین اپنے (اندر) کے بوجھ نکال ڈالے گی
+
+**[3]** اور انسان کہے گا کہ اس کو کیا ہوا ہے؟
+
+**[4]** اس روز وہ اپنے حالات بیان کردے گی
+
+**[5]** کیونکہ تمہارے پروردگار نے اس کو حکم بھیجا (ہوگا)
+
+**[6]** اس دن لوگ گروہ گروہ ہو کر آئیں گے تاکہ ان کو ان کے اعمال دکھا دیئے جائیں
+
+**[7]** تو جس نے ذرہ بھر نیکی کی ہو گی وہ اس کو دیکھ لے گا
+
+**[8]** اور جس نے ذرہ بھر برائی کی ہوگی وہ اسے دیکھ لے گا
+

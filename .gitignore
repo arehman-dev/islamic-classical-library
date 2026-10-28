@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary & cache files
+*.tmp
+*.temp
+.cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Maintenance & automation scripts (maintained on local system only)
+scripts/
+*.sh
+*.py

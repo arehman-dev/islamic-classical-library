@@ -1,0 +1,522 @@
+---
+collection: "Jami' at-Tirmidhi"
+book_number: "25"
+book_title: "The Book on Food"
+language: "English"
+total_hadiths: 73
+---
+
+# Jami' at-Tirmidhi - Book 25: The Book on Food
+Language: English (Abu Khaliyl)
+
+### Hadith 1788
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih Bukhari*
+
+Narrated Yunus: From Qatadah, that Anas said: "The Messenger of Allah (ﷺ) never ate on a table, nor on small plates, not did he eat thin bread." He (Yunus) said: "I asked Qatadah: 'So what did he eat on ?' He said: 'On these leather dining sheets.'" [Abu 'Eisa said:] This Hadith is Hasan Gharib. Muhammad bin Bash-har said: "This Yunus is Yunus Al-Iskaf." And 'Abdul-Warith bin Sa'eed reported similarly from Sa'eed bin Abi 'Arubah, from Qatadah, from Anas [From the Prophet (ﷺ]
+
+---
+
+### Hadith 1789
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Hisham b. Zaid: "I heard Anas saying: 'Once we provoked a rabbit at Marr Az-Zahran. So the Companions of the Messenger of Allah (ﷺ) rushed after it, and I caught up to it and captured it. I brought it to Abu Talhah who slaughtered it with Marwah. He sent me with its legs - or its thighs - to the Prophet (ﷺ) so he could eat it.'" He (Hisham) said: "I said: 'He ate it?' He said:'He accepted it.'" [Abu 'Eisa said:] There are narrations on this topic from Jubair, 'Ammar, Muhammad bin Safwan, and they say: Muhammad bin Saifi. This Hadith is Hasan Sahih. This is acted upon according to the people of knowledge. They saw no harm in eating rabbit. Some of the people of knowledge disliked eating rabbit, they said that it menstruates
+
+---
+
+### Hadith 1790
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Isnaad Sahih*
+
+Narrated Ibn 'Umar: "The Prophet (ﷺ) was asked about eating a mastigure and he said: 'I do not eat it, and I do not prohibit eating it.'" [He said:] There are narrations on this topic from 'Umar, Abu Sa'eed, Ibn 'Abbas, Thabit bin Wadi'ah, Jabir, and 'Abdur-Rahman bin Hasanah. [Abu 'Eisa said:] This Hadith is Hasan Sahih The People of knowledge have differed over eating mastigure. Some of the people of knowledge among the Companions of the Prophet (ﷺ) and others permitted it, while others considered it disliked. It has been related that Ibn 'Abbas said: "Mastigure was eaten on the dining spread of the Messenger of Allah (ﷺ), and the Messenger of Allah (ﷺ) only avoided it because it was distasteful to him
+
+---
+
+### Hadith 1791
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Ibn Abi 'Ammar: "I asked Jabir: 'Is badger kind of game animal?' He said: 'Yes.'" He said: "I said: 'Should I eat it?' He said: 'Yes.'" He said: 'I said: 'Did the Messenger of Allah (ﷺ) say that ?' He said: 'Yes.'" [Abu 'Eisa said:] This Hadith is Hasan Sahih. Some of the people of knowledge followed this. They did not see any harm eating badger. This is the view of Ahmad and Ishaq. A Hadith has been related from the Prophet (ﷺ) indicating disapproval of eating badger but its chain is not strong. Some of the people of knowledge disliked eating badger. This is the view of Ibn Al-Mubarak. Yahya bin Al-Qattan said: "Jarir bin Hazm reported this Hadith from 'Abdullah bin 'Ubaid bin 'Umair, from Ibn Abi 'Ammar, from Jabir, from 'Umar, as his saying. And the narration of Ibn Juraij (a narrator in the chain of this Hadith) is more correct. And Ibn Abi 'Ammar is 'Abdur-Rahman bin 'Abdullah bin Abi 'Ammar Al-Makki
+
+---
+
+### Hadith 1792
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated Khuzaimah bin Jaz': "I asked the Messenger of Allah (ﷺ) about eating badger. He said: 'Does anyone eat badger?' So I asked him about eating wolf' He said: 'Does anyone who has any good in him eat wolf?'" [Abu 'Eisa said:] The chain for this Hadith is not strong. We do not know of it except as a narration of Isma'il bin Muslim from 'Abdul-Karim Abi Umayyah. Some of the people of Hadith have criticized Isma'il and 'Abdul Karim Abi Umayyah. And he is 'Abdul-Karim bin Qais, who is Ibn Abi Al-Mukhariq. While 'Abdul-Karim bin Malik Al-Jazari is trustworthy
+
+---
+
+### Hadith 1793
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Jabir: "The Messenger of Allah (ﷺ) allowed us to eat horse meat, and he forbade us from eating donkey meat." He said: There is something on this from Asma' bin Abi Bakr. Abu 'Eisa said: This Hadith is Hasan Sahih. This is how it was reported by more than one narrator, from 'Amr bin Dinar from Jabir. Hammad bin Zaid reported it from 'Amr bin Dinar from Muhammad bin 'Ali, from Jabir. The narration of Ibn 'Uyainah (no. 1793) is more correct. He said: I heard Muhammad saying: "Sufyan bin 'Uyainah is better at memorizing than Hammad bin Zaid
+
+---
+
+### Hadith 1794
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih*
+
+
+
+---
+
+### Hadith 1795
+*Ahmad Muhammad Shakir: Hasan Sahih, Al-Albani: Hasan Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Isnaad Hasan*
+
+Narrated Abu Hurairah: "On the day of Khaibar, the Messenger of Allah (ﷺ) prohibited every predator possessing canines, and the Mujath-thamah, and the domestic donkey." He said: There are narrations on this topic from 'Ali, Jabir, Al-Bara', Ibn Abi Awfa, Anas, Al-'Irbad bin Sariyah, Abu Tha'labah, Ibn 'Umar and Abu Sa'eed. [Abu 'Eisa said:] This Hadith is Hasan Sahih. 'Abdul-'Aziz bin Muhammad and others reported this Hadith from Muhammad bin 'Amr, and they only mentioned one phrase: "The Messenger of Allah (ﷺ) prohibited every predator possessing canines
+
+---
+
+### Hadith 1796
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Abu Tha'labah Al-Khushani: "The Messenger of Allah (ﷺ) was asked about the pots of Zorastrians. He said: 'Clean them by washing them, and then cook in them." And he prohibited every predator possessing canines." This is a well known Hadith of Abu Tha'labah, and it has been reported from him through routes other than this. And Abu Tha'labah's name is Jurthum, and they say: Jurhum, and they say: Nashib. This Hadith has also been mentioned by Abu Qilabah from Abu 'Asma Ar-Rahbi, from Abu Tha'labah
+
+---
+
+### Hadith 1797
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Isnaad Sahih*
+
+Narrated Abu Tha'labah Al-Khushani: That he said: "O Messenger of Allah! We live in a land of the People of Book and we cook in their containers, and drink in their vessels." The Messenger of Allah (ﷺ) said: "If you do not find other than them, then rinse them with water." The he said: "O Messenger of Allah! We live in a land of game, so what should we do ?" He said: "When you send your trained dog, and you mentioned the Name of Allah, and he kills it, then eat it. And when you shoot it with your bow, and it is killed, then eat it.'" [Abu 'Eisa said:] This Hadith is Hasan Sahih
+
+---
+
+### Hadith 1798
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih Bukhari*
+
+Narrated Ibn 'Abbas: From Maimunah that a mouse fell in some cooking fat and died. So the Prophet (ﷺ) was asked about that and he said: "Remove it (the mouse) and what was around it and then eat it (the fat)." He said: There are something on this topic from Abu Hurairah. [Abu 'Eisa said:] This Hadith is Hasan Sahih. This Hadith has been related from Az-Zuhri, from 'Ubaidullah, from Ibn 'Abbas, saying: "The Prophet (ﷺ) as asked" and they did not mention Maimunah in it. The narration of Ibn 'Abbas from Maimunah is more correct. Ma'mar reported similar from Az-Zuhri, from Sa'eed bin Al-Musayyab, from Abu Hurairah, from the Prophet (ﷺ). But this hadith is not preserved. He said: I heard Muhammad bin Isma'il saying: "The Hadith of Ma'mar from Az-Zuhri, from Sa'eed bin al-Musayyab, from Abu Hurairah, from the Prophet (ﷺ)" - and he mentioned in it: 'That he was asked about it, so he said: "When it (the coking fat) is solid then remove it (the mouse) and what was around it. And when it is liquid then do not use it.'" This is a mistake. Ma'mar made a mistake with it. And he said: What is correct is the narration of Az-Zuhri from 'Ubaidullah, from Ibn 'Abbas, and Maimunah
+
+---
+
+### Hadith 1799
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Bukhari And Muslim*
+
+Narrated 'Abdullah bin 'Umar: That the Prophet (ﷺ) said: "Let none of you wat with his left hand nor drink with his left hand, for indeed Ash-Shaitan eats with his left hand and drinks with his left hand." He said: There are narrations on this topic from Jabir, 'Umar bin Abi Salamah, Salamah bin Al-Akwa', Anas bin Malik, and Hafsah. [Abu 'Eisa said:] This Hadith is Hasan Sahih. This is how Malik and Ibn 'Uyainah reported it from Az-Zuhri, from Abu Bakr bin 'Ubaidullah, from Ibn 'Umar. Ma'mar and 'Uqail reported it from Az-Zuhri, from Salim, from Ibn 'Umar. And the narration of Malik and Ibn 'Uyainah is more correct
+
+---
+
+### Hadith 1800
+*Zubair Ali Zai: Sahih*
+
+Narrated Az-Zuhri:From Salim, from his father, that the Messenger of Allah (ﷺ) said: "When one of you eats, then let him eat with his right hand, and let him drink with his right hand, for indeed Ash-Shaitan eats with his left hand, and he drinks with his left hand
+
+---
+
+### Hadith 1801
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated Abu Hurairah: That Messenger of Allah (ﷺ) said: "When one of you eats, then let him lick his fingers, for indeed he does not know in which of them is the blessing." He said: There are narrations on this topic from Jabir, Ka'b bin Malik, and Anas. [Abu 'Eisa said:] This Hadith is Hasan Gharib, we do not know of it except from this route, as a narration of Suhail. I asked Muhammad about this Hadith, so he said: "This is among the diverse narrations of 'Abdul-'Aziz, we do not know of it except from his narration
+
+---
+
+### Hadith 1802
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated Jabir: That the Prophet (ﷺ) said: "When one of you eats food, and he drops a pieces of it, then let him remove anything suspicious from it and eat it. Do not leave it for Ash-Shaitan." He said: There is something about this from Anas
+
+---
+
+### Hadith 1803
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated Anas: "When the Prophet (ﷺ) ate, he would lick his three fingers, and he said: 'If one of you drops a piece (of food) then let him remove any harm (dirt) from it and eat it, and do not leave it for Ash-Shaitan.' And he would order us to finish (clean) the dish. And he said: 'Indeed you do not know in which part of your food is the blessing.' [Abu 'Eisa said:] This Hadith is Hasan Gharib Sahih
+
+---
+
+### Hadith 1804
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated Al-Mu'alla bin Rashid: "My grandmother, Umm 'Asim narrated to me - and she was the slave woman of Sinan bin Salamah - she said: 'Nubaishah Al-Khair entered upon us while we were eating from a large bowl. He narrated to us that the Messenger of Allah (ﷺ) said: "Whoever eats from A Qas'ah, then licks it, the Qas'ah will seek forgiveness for him." [Abu 'Eisa said:] This Hadith is Gharib, we do not know of it except through the narration of Al-Mu'alla bin Rashid. And Yazid bin Harun and others among the A'immah reported this Hadith from Al-Mu'alla bin Rashid
+
+---
+
+### Hadith 1805
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Hasan*
+
+Narrated Ibn 'Abbas: That the Prophet (ﷺ) said: "Indeed the blessing descends to the middle of the food, so eat from its edges, and do not eat from its middle." [Abu 'Eisa said:] This Hadith is Hasan Sahih. It is only known through the narration of 'Ata' bin As-Sa'ib. Shu'bah and Ath-Thawri reported from 'Ata' bin As-Sa'ib. There is something about this topic from Ibn 'Umar
+
+---
+
+### Hadith 1806
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Jabir: That the Messenger of Allah (ﷺ) said: "Whoever eats from these - the first time, he said garlic, then he said - garlic, onion, and leek, then let him not approach our Masjid." [Abu 'Eisa said:] This Hadith is Hasan Sahih. He said: There are narrations on this topic from 'Umar, Abu Ayyub, Abu Hurairah, Abu Sa'eed, Jabir bin Samurah, Qurrah [bin Iyas Al-Muzani] and Ibn 'Umar
+
+---
+
+### Hadith 1807
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated Jabir bin Samurah: "The Messenger of Allah (ﷺ) was staying with Abu Ayyub. When he ate some food, he would send what was left to him. So one day he sent him some food but the Prophet (ﷺ) did not eat from it. So Abu Ayyub went to the Prophet (ﷺ) and mentioned that to him. The Prophet (ﷺ) said: 'It contained garlic.' So he said: 'O Messenger of Allah! Is it unlawful?' He said: 'No, I dislike it because of its odor.'" He said: This Hadith is Hasan Sahih
+
+---
+
+### Hadith 1808
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Daif*
+
+Narrated Sharik bin Hanbal:That 'Ali said: "Eating garlic was prohibited except when cooked
+
+---
+
+### Hadith 1809
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated Sharik bin Hanbal:That 'Ali said: "Eating garlic is no good, except when cooked." [Abu 'Eisa said:] This chain of this Hadith is not strong. It has been reported as a saying of 'Ali and it has been reported from Sharik bin Hanbal from the Prophet (ﷺ) in Mursal form. Muhammad said: "Al-Jarrah bin Malih (one of the narratos) is truthful, and Al-Jarrah bin Ad-Dahhak is Muqarib (average) in Hadith
+
+---
+
+### Hadith 1810
+*Ahmad Muhammad Shakir: Hasan, Al-Albani: Hasan, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih*
+
+Narrated 'Ubaidullah bin Abi Burdah: From his father that Umm Ayyub informed him that the Prophet (ﷺ) had stayed with them, and they prepared some food for him containing some of these vegetables. But he disliked eating it, so he said to his Companions: "Eat it, for I am not like you are, I fear that I will offend my companion." [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib. Umm Ayyub is the wife of Abu Ayyub Al-Ansari
+
+---
+
+### Hadith 1811
+*Ahmad Muhammad Shakir: Daif Isnaad Maqtu, Al-Albani: Daif Isnaad Maqtu, Zubair Ali Zai: Daif*
+
+Narrated Abu Khaldah:That Abu Al-'Aliyah said: "garlic is among the good provisions." Abu Khaldah's name is Khalid bin Dinar, and he is trustworthy according to the people of Hadith. He saw Anas bin Malik and heard narrations from him. Abu Al-'Aliyah's name is Rufai' and he is Ar-Riyahi. 'Abdur-Rahman bin Mahdi said: "Abu Khaldah was preferable, reliable
+
+---
+
+### Hadith 1812
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated Jabir: That the Prophet (ﷺ) said: "Close the door, tie the water-skin, turn over the vessel, or cover the vessel, and extinguish the torch. Indeed Ash-Shaitan does not open what is closed, nor undo what is fastened, nor uncover a vessel, but the small vermin may cause a fire in people's houses." He said: There are narrations on this topic from Ibn 'Umar, Abu Hurairah, and Ibn 'Abbas. [Abu 'Eisa said:] This Hadith is Hasan Sahih, and it has been reported through other routes from Jabir
+
+---
+
+### Hadith 1813
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Salim: From his father, that the Messenger of Allah (ﷺ) said: "Do not leave the fire (burning) in your houses when you sleep." [Abu 'Eisa said:] This Hadith is Hasan Sahih
+
+---
+
+### Hadith 1814
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Ibn 'Umar: "The Messenger of Allah (ﷺ) prohibited taking two dates at a time until seeking permission from one's companion." He said: There is something on this topic from Sa'd the freed slave of Abu Bakr. [Abu 'Eisa said:] This Hadith is Hasan Sahih
+
+---
+
+### Hadith 1815
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated 'Aishah: That the Prophet (ﷺ) said: "A house without dates, its inhabitants will be hungry." He said: There are narrations on this topic from Salma the wife of Abu Rafi'. [Abu 'Eisa said:] This Hadith is Hasan Gharib from this route. We do not know of it to be a narration of Hisham bin 'Urwah except through this route. He said: I asked Al-Bukhari about this Hadith and he said: "I do not know of anyone who reported it other than Yahya bin Hassan
+
+---
+
+### Hadith 1816
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated Anas bin Malik: That the Prophet (ﷺ) said: "Indeed Allah is pleased with the slave who, upon eating his food or drinking his drink, he praises Him for it." He said: There are narrations on this topic from 'Uqbah bin 'Amir, Abu Sa'eed, 'Aishah, Abu Ayyub, and Abu Hurairah. [Abu 'Eisa said:] This Hadith is Hasan. More than one narrator has reported it from Zakariyya bin Abi Za'idah similarly, and we do not know of it except through the narration of Zakariyya bin Abi Za'idah
+
+---
+
+### Hadith 1817
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated Jabir bin ‘Abdullah : "The Messenger of Allah (ﷺ) took the hand of a leper and put it in the Qas'ah. Then he said: 'Eat in Allah's Name, trusting in Allah and relying upon Him.'" [Abu 'Eisa said:] This is a Gharib Hadith, we do not know of it except through the report of Yunus bin Muhammad, from Al-Mufaddal bin Fadalah, a Shaikh from Al-Basrah. There is another Shaikh from Al-Basrah named Al-Mufaddal bin Fadalah, who is more reliable han this one and more popular. Shu'bah reported this Hadith from Habib bin Ash-Shahid, from Ibn Buraidah: "That Ibn 'Umar took the hand of a leper" and the narration of Shu'bah is more appropriate to me and more correct
+
+---
+
+### Hadith 1818
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated Ibn 'Umar: That the Prophet (ﷺ) said: "The disbeliever eats with seven intestines and the believer eats with one intestine." [Abu 'Eisa said:] This Hadith is Hasan Sahih. He said: There are narrations on this topic from Abu Hurairah, Abu Sa'eed, Abu Basrah Al-Ghifari, Abu Musa, Jahjah Al-Ghifari, Maimunah, and 'Abdullah bin 'Amr
+
+---
+
+### Hadith 1819
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated Abu Hurairah: "The Messenger of Allah (ﷺ) had a disbeliever as a guest. So the Messenger of Allah (ﷺ) ordered that a sheep be milked so he could drink. Then another was milked so he could drink, then another, so he drank until he had drank the milk of seven sheep. The he awoke the next morning and accepted Islam. The Messenger of Allah (ﷺ) ordered that a sheep be milked so he could drink its milk, then he ordered for another but he could not finish it. So the Messenger of Allah (ﷺ) said: 'The believer drinks with one intestine and the disbeliever drinks with seven.'" [Abu 'Eisa said:] This Hadith is Sahih Hasan Gharib as a narration of Suhail
+
+---
+
+### Hadith 1820
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih*
+
+
+
+---
+
+### Hadith 1821
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Abu Ya'fur Al-'Abdi: That 'Abdullah bin Abi Awfa was asked about locust. He said: "I participated in six military expeditions with the Messenger of Allah (saws, (and) we ate locust." [Abu 'Eisa said:] This is how Sufyan bin 'Uyainah reported this Hadith from Abu Ya'fur. He said: "Six military expeditions," while Sufyan Ath-Thawri reported this Hadith from Abu Ya'fur, and he said: "Seven military expeditions." He said: There are narrations on this topic from Ibn 'Umar and Jabir. He said: This Hadith is Hasan Sahih. Abu Yu'fur's name is Waqid. They also call him Waqdan. There is another Abu Ya'fur whose name is 'Adbur-Rahman bin 'Ubaid bin Nistas
+
+---
+
+### Hadith 1822
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Abu Ya'fur: That Ibn Abi Awfa said: "We participated in seven military expeditions with the Messenger of Allah (ﷺ), (and) we ate locust." [Abu 'Eisa said:] Shu'bah reported this Hadith from Abu Ya'fur, from Ibn Awfa and said: "We participated in military expeditions with the Messenger of Allah (ﷺ) (and) we ate locust." This was narrated to us by Muhammad bin Bash-shar (who said): "Muhammad bin Ja'far narrated to us from Shu'bah
+
+---
+
+### Hadith 1823
+*Zubair Ali Zai: Daif*
+
+Narrated At-Taimi: From Jabir bin 'Abdullah and Anas bin Malik who said: "When the Messenger of Allah (ﷺ) supplicated against locusts he would say: 'O Allah! Destroy the locusts, kill the large among him, and destroy the small, spoil his core, and cut off his rear. Take their mouths from our livelihood and our sustenance. Verily, You indeed listen to the supplication!' So a man said: 'O Messenger of Allah! How is it that you supplicate against one of the Allah's armies that He cut off their rear?'" He said: "So the Messenger of Allah (ﷺ) said: 'They are bit scattered from a fish in the ocean.'" [Abu 'Eisa said:] This Hadith is Gharib. We do not know of it except from this route. And Musa bin Muhammad bin Ibrahim At-Taimi has been criticized. He narrates many Gharib and Munkar narrations. His father Muhammad bin Ibrahim is trustworthy, and he is from Al-Madinah
+
+---
+
+### Hadith 1824
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Daif*
+
+Narrated Ibn 'Umar: "The Prophet (ﷺ) prohibited eating the Jallalah and milking it." He said: There is something on this topic from 'Abdullah bin 'Abbas. [Abu 'Eisa said:] This Hadith is Hasan Gharib. Ath-Thawri reported it from Ibn Abi Najih, from Mujahid, from the Prophet (ﷺ) in Mursal form
+
+---
+
+### Hadith 1825
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih*
+
+
+
+---
+
+### Hadith 1826
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Zahdam Al-Jarmi: "I entered upon Abu Musa while he was eating chicken, and he said: 'Sit and eat, for indeed I saw the Messenger of Allah (ﷺ) eating it.'" [Abu 'Eisa said:] This Hadith is Hasan. This Hadith has been reported through other routes from Zahdam, and we do not know of it except as the narration of Zahdam. (One of the narrators) Abu Al-'Awwam is 'Imran Al-Qattan
+
+---
+
+### Hadith 1827
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Zahdam: From Abu Musa who said: "I saw the Messenger of Allah (ﷺ) eating chicken meat." He said: The Hadith has more statements that this. And this Hadith is Hasan Sahih. Ayyub As-Sakhtiyani also reported this Hadith from Al-Qasim At-Tamimi, and, from Abu Qilabah, from Zahdam Al-Jarmi
+
+---
+
+### Hadith 1828
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated Ibrahim bin 'Umar bin Safinah: From his father, from his grandfather that he said: "I ate bustard meat with the Messenger of Allah (ﷺ)." [Abu 'Eisa said:] This Hadith is Gharib, we do not know of it except from this route. Ibn Abi Fudaik reported from Ibrahim bin 'Umar bin Safinah and he has been called Buraih bin 'Umar bin Safinah
+
+---
+
+### Hadith 1829
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Isnaad Sahih*
+
+Narrated Umm Salamah: That she brought a side of roasted meat to the Messenger of Allah (ﷺ), so he ate it from it and stood for Salat, and did not perform Wudu' He said: There are narrations on this topic from 'Abdullah bin Al-Harith, Al-Mughirah, and Abu Rafi' [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib from this route
+
+---
+
+### Hadith 1830
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Abu Juhaidah: That the Messenger of Allah (ﷺ) said: "As for me, I do not eat while reclining." He said: There are narrations on this topic from 'Ali, 'Abdullah bin 'Amr, and 'Abdullah bin Al-'Abbas. [Abu 'Eisa said:] This Hadith is Hasan Sahih, we do not know of it except as a narration of 'Ali bin Al-Aqmar. Zakariyya bin Abi Za'idah, Sufyan bin Sa'eed, and other reported this Hadith from 'Ali bin Al-Aqmar. And Shu'bah reported this Hadith from Sufyan Ath-Thawri from 'Ali bin Al-Aqmar
+
+---
+
+### Hadith 1831
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated 'Aishah: "The Prophet (ﷺ) liked sweets and honey." This Hadith is Hasan Sahih Gharib. 'Ali bin Mus-hir reported it from Hisham bin 'Urwah, and there is more stated in the Hadith than this
+
+---
+
+### Hadith 1832
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated 'Alqamah bin Al-Muzani: From his father, who said that the Prophet (ﷺ) said: "When one of you buys meat, then let him increase its broth. For, if he does not find any meat you'll have broth; and it is one of the two meats." And there are narrations on this topic from Abu Dharr. [Abu 'Eisa said:] This Hadith is Gharib, we do not know of it except through this route, as a narration of Muhammad bin Fada', who is Muhammad bin Fada' Al-Mu'abbar, and he has been criticized by Sulaiman bin Harb. 'Alqamah bin 'Abdullah is the brother of Bakr bin 'Abdullah Al-Muzani
+
+---
+
+### Hadith 1833
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Abu Dharr: That the Messenger of Allah (ﷺ) said: "Let one of you not consider any good to be insignificant. If he has nothing, then let him meet his brother with a smiling face. If you buy some meat or cook something in a pot, then increase its broth, and serve some of it to your neighbor." [Abu 'Eisa said:] This Hadith is Hasan Sahih. Shu'bah reported it from Abu 'Imran Al-Jawni
+
+---
+
+### Hadith 1834
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Abu Musa: That the Prophet (ﷺ) said: "Many a man achieved perfection, but no woman achieved perfection except for Mariam the daughter of 'Imran, and Asiyah the wife of Fir'awn. And the superiority of 'Aishah over other women is like the superiority of Tharid over other foods." He said: There is something on this topic from 'Aishah and Anas. [Abu 'Eisa said:] This Hadith is Hasan Sahih
+
+---
+
+### Hadith 1835
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated 'Abdullah bin Al-Harith: "My father had me married so he invited people, and Safwan bin Umayyah was among them. So he said: 'Indeed the Messenger of Allah (ﷺ) said: 'Bite the meat (with your teeth) for indeed it is more enjoyable and more wholesome. He said: There are narration on this topic from 'Aishah and Abu Hurairah. [Abu 'Eisa said:] We do not know of this Hadith except through the narration of 'Abdul-Karim. Some of the people of knowledge have criticized 'Abdul-Karim Al-Mu'allim because of his memory, Ayyub As-Sakhtiyani was among them
+
+---
+
+### Hadith 1836
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Ja'far bin 'Amr bin Umayyah Ad-Damri: From his father who said that he saw the Prophet (ﷺ) making incisions (with a knife) into a piece of a lamb shoulder which he ate from, then he went to perform Salat without performing Wudu'. [Abu 'Eisa said:] This Hadith is Hasan Sahih and there is something on this topic from Al-Mughirah bin Shu'bah
+
+---
+
+### Hadith 1837
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Abu Hurairah: "Some meat was brought to the Prophet (ﷺ) and a foreleg was presented to him, and he used to like it, so he bit from it." He said: There are narrations on this topic from Ibn Mas'ud, 'Aishah, 'Abdullah bin Ja'far, and Abu 'Ubaidah. [Abu 'Eisa said:] This Hadith is Hasan Sahih. Abu Hayyan's (a narrator in the chain) name is Yahya bin Sa'eed bin Hayyan At-Taimi. Abu Zur'ah bin 'Amr bin Jarir's name is Harim
+
+---
+
+### Hadith 1838
+*Ahmad Muhammad Shakir: Munkar, Al-Albani: Munkar, Zubair Ali Zai: Daif*
+
+Narrated 'Aishah: "The foreleg was not the part of the meat that the Messenger of Allah (ﷺ) liked most, but he would not get meat but occasionally. So it would be hastened to him because it cooks quickly." [Abu 'Eisa said:] This Hadith is Hasan Gharib, we do not know of it except from this route
+
+---
+
+### Hadith 1839
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Jabir: That the Prophet (ﷺ) said: "What an excellent condiment vinegar is
+
+---
+
+### Hadith 1840
+*Ahmad Muhammad Shakir: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih Muslim*
+
+Narrated 'Aishah: That the Messenger of Allah (ﷺ) said: "What an excellent condiment vinegar is." Another chain with similar except that he (ﷺ) said: "What an excellent condiment, or, (the most excellent of) condiments is vinegar." [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib from this route. It is not known as a Hadith of Hisham bin 'Urwah except through the narration of Sulaiman bin Bilal
+
+---
+
+### Hadith 1841
+*Ahmad Muhammad Shakir: Hasan, Bashar Awad Maarouf: Hasan, Zubair Ali Zai: Daif*
+
+Narrated Umm Hani' bint Abi Talib: "The Messenger of Allah (ﷺ) entered upon me and said: 'Do you have anything?' I said: 'No, except a piece of hard bread and vinegar.' so he said: 'Bring it, for a house that has vinegar is not impoverished of condiments." [Abu 'Eisa said:] This Hadith is Hasan Gharib from this route. We do not know of it as a Hadith of Umm Hani' except through this route. Abu Hamzah Ath-Thumali's (a narrator in the chain) name is Thabit bin Abi Safiyyah. And Umm Hani' died some time after 'Ali bin Abi Talib. I asked Muhammad about this Hadith. He said: "I do not know Ash-Sha'bi hearing from Umm Hani'." So I said: "How is Abu Hamzah according to you?" He said: "Ahmad bin Hanbal criticized him, but he is Muqarib (average) in Hadith to me
+
+---
+
+### Hadith 1842
+*Al-Albani: Hasan, Zubair Ali Zai: Sahih*
+
+Narrated Jabir: That the Prophet (ﷺ) said: "What an excellent condiment vinegar is." There are narrations on this topic from 'Aishah and Umm Hani', and this is more correct than the narration of Mubarak bin Sa'eed (no)
+
+---
+
+### Hadith 1843
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih*
+
+Narrated 'Aishah: "The Prophet (ﷺ) would eat melon with fresh dates." He said: There is something on about this from Anas. [Abu 'Eisa said:] This Hadith is Hasan Gharib. Some of them reported it form Hisham bin 'Urwah from his father in Mursal form from the Prophet (ﷺ), without mentioning "from 'Aishah" in it, And Yazid bin Ruman reported this Hadith from 'Urwah, from 'Aishah
+
+---
+
+### Hadith 1844
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated 'Abdullah bin Ja'far: "The Messenger of Allah (ﷺ) would eat snake cucumber with fresh dates. [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib, we do not know of it except as a narration of Ibrahim bin Sa'd
+
+---
+
+### Hadith 1845
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Isnaad Sahih*
+
+Narrated Anas: "Some of people from 'Urainah arrived in Al-Madinah, and they were uncomfortable (with the climate). So the Messenger of Allah (ﷺ) sent them some camels from charity. He told them: "Drink from their milk and urine." [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib as a narration of Thabit. This Hadith has been reported through other routes from Anas. Abu Qilabah reported it from Anas, and Sa'eed bin Abu 'Arubah reported it from Qatadah, from Anas
+
+---
+
+### Hadith 1846
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Bashar Awad Maarouf: Daif, Zubair Ali Zai: Daif*
+
+Narrated Salman: "I read in the Tawrah that the blessing for food is in the Wudu' after it. So I mentioned that to the Prophet (ﷺ), telling him what I read in the Tawrah. So the Messenger of Allah (ﷺ) said: 'The food's blessing is in the Wudu' before it and the Wudu' after it.'" He said: There are narrations on this topic from Anas and Abu Hurairah. [Abu 'Eisa said:] We do not know of this Hadith except as a narration of Qais bin Ar-Rabi'. Qais [bin Ar-Rabi'] was graded weak in Hadith. Abu Hashim Ar-Rumani's (a narrator in the chain) name is Yahya bin Dinar
+
+---
+
+### Hadith 1847
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Isnaad Sahih*
+
+Narrated Ibn 'Abbas: "The Messenger of Allah (ﷺ) cae out from the toilet and some food was brought to him. They said: 'Shall we bring you some water for Wudu'?' He said: 'I have only been ordered to perform Wudu' when standing for Salat.'" [Abu 'Eisa said:] This Hadith is Hasan [Sahih]. 'Amr bin Dinar has reported it from Sa'eed bin Al-Huwairith, from Ibn 'Abbas. 'Ali bin Al-Madini said: 'Sufyan Ath-Thawri disliked washing the hands before eating food, and he disliked placing the bread under the bowl
+
+---
+
+### Hadith 1848
+*Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated 'Ikrash bin Dhu'aib: "Banu Murrah bin 'Ubaid sent me to bring the Sadaqah from their wealth of the Messenger of Allah (ﷺ). I arrived with him in Al-Madinah and found him sitting between the Muhajirin and the Ansar." He said: "Then he took my hand and brought me to the home of Umm Salamah and he said: 'Do you have any food?' So a bowl containing a lot of Tharid with pieces of meat was brought to us, and presented for us to eat from it. So I began wandering my around it while the Messenger of Allah (ﷺ) ate from what was in front of him. He grabbed my right hand with his left hand, then he said: 'O 'Ikrash! Eat from one spot, for indeed the food is one.' Then a plate containing various dried dates" - or fresh dates - 'Ubaidullah (a narrator) was not sure. He said: "I began eating what was in front of me, while the hand of the Messenger of Allah (ﷺ) roamed about the plate. He said: 'O 'Ikrash! Eat from wherever you like, for indeed it is not all from the same variety.' Then water was brought, so the Messenger of Allah (ﷺ) washed his hands, and with the wetness of his hands he wiped his face, his forearms, and his head, and he said: 'O Ikrash! This is the Wudu' for that which has been altered by fire.'" [Abu 'Eisa said:] This Hadith is Gharib, we do not know of it except through the narration of Al-'Ala' bin Al-Fadl, and Al-Ala'was alone with this narration, and there is more in the story in the Hadith. And we do not know a Hadith from the Prophet (ﷺ) by 'Ikrash except this
+
+---
+
+### Hadith 1849
+*Ahmad Muhammad Shakir: Daif Isnaad, Al-Albani: Daif Isnaad, Zubair Ali Zai: Daif*
+
+Narrated Abu Talut: "I entered upon Anas bin Malik while he was eating gourd, and he was saying: 'O you tree! I do not like you but because of the Messenger of Allah (ﷺ) liked you.'" He said: There is something on this topic from Hakim bin Jarir, from his father. [Abu 'Eisa said:] This Hadith is Gharib from this route
+
+---
+
+### Hadith 1850
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+Narrated Anas bin Malik: "I saw the Messenger of Allah (ﷺ) taking from the sides around the dish - meaning the gourd. Since then I still like it." [Abu 'Eisa said:] This Hadith is Hasan Sahih. This Hadith has been reported through more than one route from Anas bin Malik
+
+---
+
+### Hadith 1851
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih*
+
+
+
+---
+
+### Hadith 1852
+*Ahmad Muhammad Shakir: Sahih Lighairihi, Al-Albani: Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Abu Asid: "The Prophet (ﷺ) said: Eat of its oil and use it (the olives), for indeed it is from a blessed tree." [Abu 'Eisa said:] This Hadith is Gharib from this route. We only know of it from the narration of Sufyan At-Thawri, from 'Abdullah bin 'Eisa
+
+---
+
+### Hadith 1853
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Isma'il bin Abi Khalid: From his father that Abu Hurairah informed them that the Prophet (ﷺ) said: "When the servant of one of you has endured heat and smoke preparing his food for him, then let him take him by the hand and make him sit him down with him. If he refuses, then let him take a morsel and feed him with it." [Abu 'Eisa said:] This Hadith is Hasan Sahih. Abu Khalid is the father of Isma'il, his name is Sa'd
+
+---
+
+### Hadith 1854
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Zubair Ali Zai: Daif*
+
+Narrated Abu Hurairah: That the Prophet (ﷺ) said: "Spread the (greetings of) Salam, feed others, strike the heads (of the enemy disbelievers); you will inherit Paradise." He said: There are narrations on this topic from 'Abdullah bin 'Amr, Ibn 'Umar, Anas, 'Abdus-Salam, 'Abdur-Rahman bin 'Aish, and Shuraih bin Hani' from his father. [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib as a narration of [Ibn Ziyad] from Abu Hurairah
+
+---
+
+### Hadith 1855
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Bashar Awad Maarouf: Hasan Sahih, Zubair Ali Zai: Sahih*
+
+Narrated 'Abdullah bin 'Amr: That the Messenger of Allah (ﷺ) said: "(All of you) worship Ar-Rahman, feed others, spread the (greeting of) Salam, then you will enter Paradise in security." He said: This Hadith is Hasan Sahih
+
+---
+
+### Hadith 1856
+*Ahmad Muhammad Shakir: Daif, Al-Albani: Daif, Bashar Awad Maarouf: Daif, Zubair Ali Zai: Daif*
+
+Narrated Anas bin Malik: That the Messenger of Allah (ﷺ) said: "Take the 'Asha' meal, even if it is just with a handful of something to fill. For indeed avoiding the 'Asha' is from senility." [Abu 'Eisa said:] This Hadith is Munkar, we do not know of it except from this route. 'Anbasah was graded weak is Hadith. 'Abdul-Malik bin 'Allaq is unknown
+
+---
+
+### Hadith 1857
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih*
+
+Narrated 'Umar bin Abi Salamah: That he entered upon the Messenger of Allah (ﷺ) while he has some food. He said: "Sit down O my son! Mention Allah's Name and eat with your right hand, and eat what is nearest to you." [Abu 'Eisa said:] It has been reported from Hisham bin 'Urwah, from Abu Wajzah As-Sa'idi, from a man from Muzainah, from 'Umar bin Abu Salamah. The Companions of Hisham bin 'Urwah differed in reporting this Hadith. Abu Wajzah As-Sa'di's name is Yazid bin 'Ubaid
+
+---
+
+### Hadith 1858
+*Ahmad Muhammad Shakir: Sahih, Bashar Awad Maarouf: Hasan Sahih*
+
+
+
+---
+
+### Hadith 1859
+*Ahmad Muhammad Shakir: Mawdu, Al-Albani: Mawdu, Zubair Ali Zai: Daif*
+
+Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: "Indeed Ash-Shaitan has a sense of taste, for which he licks, so beware of him. So whoever spends the night with [a smell] on his hand and something happens to him, then let him not blame anyone but himself." [Abu 'Eisa said:] This Hadith is Gharib from this route. It has also been reported in a narration of Suhail bin Abi Salih, from his father, from Abu Hurairah, from the Prophet (ﷺ)
+
+---
+
+### Hadith 1860
+*Ahmad Muhammad Shakir: Sahih, Al-Albani: Sahih, Zubair Ali Zai: Sahih*
+
+Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: "Whoever spends the night with [a smell] on his hand and something happens to him, then let him not blame anyone but himself." [Abu 'Eisa said:] This Hadith is Hasan Gharib, we do not know of it as a narration of Al-'Amash except through this route
+
+---
+

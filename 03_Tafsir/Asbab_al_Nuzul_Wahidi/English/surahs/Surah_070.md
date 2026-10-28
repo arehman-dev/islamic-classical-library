@@ -1,0 +1,33 @@
+---
+work: "Asbab al-Nuzul (Occasions of Revelation)"
+arabic_title: "أسباب النزول للإمام الواحدي"
+author: "Abu al-Hasan Ali ibn Ahmad al-Wahidi al-Naysaburi (d. 468 AH / 1076 CE)"
+language: "English"
+surah_number: 70
+total_ayahs_annotated: 3
+source: "spa5k/tafsir_api"
+license: "Public Domain / Open Scholarly Heritage"
+---
+
+# Asbab al-Nuzul (Occasions of Revelation) - Surah 070
+### أسباب النزول للإمام الواحدي
+Author: Abu al-Hasan Ali ibn Ahmad al-Wahidi al-Naysaburi (d. 468 AH / 1076 CE) | Language: English
+
+### [Ayah 1]
+
+(A questioner questioned concerning the doom about to fall) [70:1]. This verse was revealed about al-Nadr ibn al-Harith when he said [as reported in the Qur�an] (O Allah! if this be indeed the truth from Thee, then rain down stones on us or bring on us some painful doom!) [8:32], and so he prayed against himself and asked for chastisement. He got what he asked for at the Battle of Badr when he was killed in captivity. And the verse (A questioner questioned concerning the doom about to fall) was revealed about him.
+
+---
+
+### [Ayah 38]
+
+(Doth every man among them hope to enter the Garden of Delight? Nay�) [70:38-39]. The commentators of the Qur�an said: �The idolaters used to gather round the Prophet, Allah bless him and give him peace, to listen to him but did not benefit from him. Instead, they gave him the lie and mocked him. They said: �If these were to enter Paradise, we shall certainly enter it before them, and we will have more wealth therein than they will ever have�. And so Allah, exalted is He, revealed this verse�.
+
+---
+
+### [Ayah 39]
+
+(Doth every man among them hope to enter the Garden of Delight? Nay�) [70:38-39]. The commentators of the Qur�an said: �The idolaters used to gather round the Prophet, Allah bless him and give him peace, to listen to him but did not benefit from him. Instead, they gave him the lie and mocked him. They said: �If these were to enter Paradise, we shall certainly enter it before them, and we will have more wealth therein than they will ever have�. And so Allah, exalted is He, revealed this verse�.
+
+---
+

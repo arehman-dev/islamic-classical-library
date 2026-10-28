@@ -1,0 +1,147 @@
+---
+work: "Tafsir al-Jalalayn (English)"
+arabic_title: "تفسير الجلالين (إنجليزي)"
+author: "Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza)"
+language: "English"
+surah_number: 85
+total_ayahs_annotated: 22
+source: "spa5k/tafsir_api"
+license: "Public Domain / Open Scholarly Heritage"
+---
+
+# Tafsir al-Jalalayn (English) - Surah 085
+### تفسير الجلالين (إنجليزي)
+Author: Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza) | Language: English
+
+### [Ayah 1]
+
+By the heaven of the constellations the twelve constellations of the planets — as explained in sūrat al-Furqān Q. 2561;
+
+---
+
+### [Ayah 10]
+
+Indeed those who persecute believing men and believing women by having them burnt then do not repent there will be for them the chastisement of Hell in return for their disbelief and there will also be for them the chastisement of burning that is to say the chastisement for their having had the believers burnt in the Hereafter; but it is also said that there is this chastisement for them in this world as when the fire rose up and burnt them as mentioned above.
+
+---
+
+### [Ayah 11]
+
+Indeed those who believe and perform righteous deeds for them there will be gardens underneath which rivers flow that is the supreme triumph.
+
+---
+
+### [Ayah 12]
+
+Assuredly your Lord’s assault against the disbelievers is severe as severe as He will it to be.
+
+---
+
+### [Ayah 13]
+
+Assuredly it is He Who originates creation and restores and is never thwarted in what He wills
+
+---
+
+### [Ayah 14]
+
+and He is the Forgiving to sinning believers the Loving the One Who shows love to His friends through His acts of generosity
+
+---
+
+### [Ayah 15]
+
+Lord of the Throne its Creator and Possessor the Glorious read nominative al-majīdu the One deserving of the perfect attributes of sublimity
+
+---
+
+### [Ayah 16]
+
+Doer of what He desires nothing able to thwart Him.
+
+---
+
+### [Ayah 17]
+
+Have you O Muhammad (s) received the story of the hosts
+
+---
+
+### [Ayah 18]
+
+Pharaoh and Thamūd? Fir‘awna wa-Thamūda substitutes for al-junūdi — the mention of ‘Pharaoh’ suffices to also include his followers; their ‘story’ is that they were destroyed for their disbelief and this is meant as a warning for those who deny the Prophet s and the Qur’ān that they may be admonished thereby.
+
+---
+
+### [Ayah 19]
+
+Nay but the disbelievers are engrossed in denial of the mentioned;
+
+---
+
+### [Ayah 2]
+
+and by the promised day the Day of Resurrection;
+
+---
+
+### [Ayah 20]
+
+and God is behind them All-Encompassing — they have no protector against Him.
+
+---
+
+### [Ayah 21]
+
+Nay but it is a glorious a magnificent Qur’ān
+
+---
+
+### [Ayah 22]
+
+in a tablet suspended above the seventh heaven preserved read mahfūzin from all devils and from having any of its contents altered; it is a high as the distance between the earth and the heaven and as wide as the distance between the east and the west made of white pearls — as stated by Ibn ‘Abbās may God be pleased with both him and his father ‘Abbās
+
+---
+
+### [Ayah 3]
+
+and by the witness Friday and the witnessed the day of ‘Arafa — that is how these three elements have been explained in hadīth for the first one is ‘promised’ the second one is ‘a witness’ that testifies to deeds performed in it while the third is ‘witnessed’ by mankind and angels the introductory particle of the response to the oath has been omitted but is implied to be laqad ‘verily’ sc. laqad qutila ashābu’l-ukhdūd
+
+---
+
+### [Ayah 4]
+
+perish accursed be the men of the ditch! the pit in the ground
+
+---
+
+### [Ayah 5]
+
+of the fire al-nāri is an inclusive substitution of it al-ukhdūdi ‘of the ditch’ abounding in fuel by which it was fuelled
+
+---
+
+### [Ayah 6]
+
+when they sat by it around the edge of the ditch on chairs
+
+---
+
+### [Ayah 7]
+
+and they themselves to what they did to those who believed in God in the way of torturing them by hurling them into the fire when they did not recant their faith were witnesses they were themselves present thereat. It is reported in a hadīth that God saved the believers who had been thrown into the fire by taking their souls before they fell into it and that the fire then rose up and burnt all those sitting around it.
+
+---
+
+### [Ayah 8]
+
+And all that they were vindicative towards them of was that they believed in God the Mighty in His kingdom the Praised
+
+---
+
+### [Ayah 9]
+
+to Whom belongs the kingdom of the heavens and the earth and God is Witness to all things in other words all that the disbelievers disavowed of the believers was their faith.
+
+---
+

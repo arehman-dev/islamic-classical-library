@@ -1,0 +1,141 @@
+---
+work: "Tafsir al-Jalalayn (English)"
+arabic_title: "تفسير الجلالين (إنجليزي)"
+author: "Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza)"
+language: "English"
+surah_number: 92
+total_ayahs_annotated: 21
+source: "spa5k/tafsir_api"
+license: "Public Domain / Open Scholarly Heritage"
+---
+
+# Tafsir al-Jalalayn (English) - Surah 092
+### تفسير الجلالين (إنجليزي)
+Author: Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza) | Language: English
+
+### [Ayah 1]
+
+By the night as it enshrouds with its darkness all that is between the heaven and the earth
+
+---
+
+### [Ayah 10]
+
+We shall surely ease his way We shall pave for him the way to hardship to the Fire;
+
+---
+
+### [Ayah 11]
+
+And his wealth shall not mā is or negation avail him when he perishes in the Fire.
+
+---
+
+### [Ayah 12]
+
+Truly with Us lies all guidance the pointing out of the path of guidance from that of error so that Our command may be followed by adhering to the former manner of conduct and that Our prohibition may also be heeded by refraining from falling into the latter manner of conduct.
+
+---
+
+### [Ayah 13]
+
+And truly to Us belong the Hereafter and the first life that is to say that of this world and so whoever seeks either of the two from anyone other than Us has erred.
+
+---
+
+### [Ayah 14]
+
+So I have warned you of I have threatened you O people of Mecca with a raging fire talazzā ‘raging’ one of the two original tā’ letters of tatalazzā has been omitted; a variant reading retains it tatalazzā that is ‘one that is flaming’
+
+---
+
+### [Ayah 15]
+
+which none shall enter but the wretched one al-ashqā means al-shaqī
+
+---
+
+### [Ayah 16]
+
+he who denies the Prophet and turns away from faith — this delimiting of those who deserve to enter this fire constitutes an interpretation of His saying But He forgives other than that to whomever He will Q. 448 which in turn suggests that what is meant is that entry into the Fire which will be everlasting.
+
+---
+
+### [Ayah 17]
+
+The God-fearing one al-atqā means al-taqī shall be spared it he will be removed far away from it
+
+---
+
+### [Ayah 18]
+
+he who gives his wealth to purify himself offering it as a means of self purification before God exalted be He by making this payment for the sake of God exalted be He and not for show or the sake of reputation so that he or the offering stands purified in the sight of God. This verse was revealed regarding the truthful one al-siddīq Abū Bakr may God be pleased with him when he purchased Bilāl the Ethiopian who was being tortured on account of his faith and then freed him whereat the disbelievers said ‘He only did this in return for a favour which he must have owed him’ and so the following was revealed
+
+---
+
+### [Ayah 19]
+
+and no one has any favour outstanding with him that must be requited;
+
+---
+
+### [Ayah 2]
+
+and by the day as it unveils as it is revealed and becomes manifest idhā ‘as’ in both instances is an absolute adverbial operated by the verbal action of the oath
+
+---
+
+### [Ayah 20]
+
+but he did this only seeking the pleasure of his Lord the Most High that is to say only seeking to secure God’s reward;
+
+---
+
+### [Ayah 21]
+
+and verily soon he shall himself be pleased with the reward he will be given in Paradise. The verse applies equally to anyone who may do as he Abū Bakr did may God be pleased with him and such a person will thereby be removed far from the Fire and rewarded.
+
+---
+
+### [Ayah 3]
+
+and by the One Who mā either functions as man ‘the One Who’ or it is related to a verbal action created the male and the female Adam and Eve or every male and female — the hermaphrodite although problematic for us is in fact either male or female according to God and therefore a person actually commits perjury if he speaks with one thinking that because he has sworn not to speak with a male or a female; he may do so with a hermaphrodite.
+
+---
+
+### [Ayah 4]
+
+Assuredly your efforts your deeds are dissimilar with some working towards Paradise by means of obedience while others in effect are working towards the Fire through acts of disobedience.
+
+---
+
+### [Ayah 5]
+
+As for him who gives what is due to God and is fearful of God
+
+---
+
+### [Ayah 6]
+
+and affirms the truth of the best word that is the truth of ‘there is no god but God’ in both places here and below verse 9
+
+---
+
+### [Ayah 7]
+
+We shall surely ease his way to the abode of ease to Paradise.
+
+---
+
+### [Ayah 8]
+
+But as for him who is niggardly with what is due to God and deems himself self-sufficient without need for His reward 929 and denies the best word
+
+---
+
+### [Ayah 9]
+
+and denies the best word
+
+---
+

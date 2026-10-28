@@ -1,0 +1,340 @@
+---
+collection: "Sunan Ibn Majah"
+book_number: "11"
+book_title: "The Chapters on Expiation"
+language: "English"
+total_hadiths: 47
+---
+
+# Sunan Ibn Majah - Book 11: The Chapters on Expiation
+Language: English (Nasiruddin al-Khattab)
+
+### Hadith 2090
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih*
+
+It was narrated that Rifa'ah Al - Juhani said:"When the Prophet (ﷺ) took an oath he would say: 'By the One in Whose Hand is the soul of Muhammad
+
+---
+
+### Hadith 2091
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih*
+
+It was narrated that Rifa'ah bin 'Arabah A-Juhani said:"The swearing of the Messenger of Allah (ﷺ) when he took an oath and I bear witness before Allah was: 'By the One in Whose Hand is my soul
+
+---
+
+### Hadith 2092
+*Al-Albani: Hasan, Muhammad Fouad Abd al-Baqi: Hasan, Shuaib Al Arnaut: Hasan, Zubair Ali Zai: Daif*
+
+It was narrated from Salim that his father said:"The swearing most frequently sworn by the Messenger of Allah (ﷺ) was: 'No, by the Controller of the hearts
+
+---
+
+### Hadith 2093
+*Al-Albani: Daif, Muhammad Fouad Abd al-Baqi: Daif, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Daif*
+
+It was narrated that Abu Hurairah said:"The swearing of the Messenger of Allah (ﷺ) was: 'No, and I ask Allah for forgiveness
+
+---
+
+### Hadith 2094
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+It was narrated from Salim bin 'Abdullah bin 'Umar, from his father, from 'Umar, that :the Messenger of Allah (ﷺ) heard him swearing by his father. The Messenger of Allah (ﷺ) said: 'Allah forbids you from making oaths by your forefathers." 'Umar said: I never took an oath by them (i.e., my forefathers) myself nor narrating such words from anyone else.”
+
+---
+
+### Hadith 2095
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+It was narrated from 'Abdur-Rahman bin Samurah that :the Messenger of Allah (ﷺ) said: 'Do not take oaths by idols nor by your forefathers
+
+---
+
+### Hadith 2096
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+It was narrated from Abu Hurairah that :the Messenger of Allah (ﷺ) said: "Whoever takes an oath, and swears, saying: 'By Al-Lat and Al-Uzza,' let him say:'La ilaha illallah
+
+---
+
+### Hadith 2097
+*Al-Albani: Daif, Muhammad Fouad Abd al-Baqi: Daif, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Sahih*
+
+It was narrated that Sa'd said:"I took an oath by Lat and 'Uzza. The Messenger of Allah (ﷺ) said : 'Say: "La ilaha illallah wahdahu la sharika lahu" (None has the right to be worshipped but Allah alone, with no partner or associate)," then spit toward your left three times, and seek refuge with Allah, and do not do that again
+
+---
+
+### Hadith 2098
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+It was narrated that Thabit bin Ad-Dahhak said:The Messenger of Allah (ﷺ) said: 'Whoever takes an oath to follow a religion other than Islam, telling a deliberate lie, he will be as he said
+
+---
+
+### Hadith 2099
+*Al-Albani: Very Daif, Muhammad Fouad Abd al-Baqi: Very Daif, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Daif*
+
+It was narrated from Anas that the Messenger of Allah (ﷺ) heard a man say:"If that happens, I will be a Jew." The Messenger of Allah (ﷺ) said: 'That is guaranteed
+
+---
+
+### Hadith 2100
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Isnaad Hasan*
+
+It was narrated from Abdullah bin Buraidah that his father told that :the Messenger of Allah (ﷺ) said: "Whoever says: 'I have nothing to do with Islam,' if he is lying then he is as he said, and if he is telling the truth, his Islam will not be sound
+
+---
+
+### Hadith 2101
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Daif*
+
+It was narrated that Ibn 'Umar said:"The Messenger of Allah (ﷺ) heard a man taking an oath by his father and said: 'Do not make oaths by your forefathers. Whoever makes an oath by Allah, let him fulfill his oath, and if an oath is sworn for a person by Allah, let him accept it. Whoever is not content with Allah has nothing to do with Allah
+
+---
+
+### Hadith 2102
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih*
+
+It was narrated from Abu Hurairah that the Prophet (ﷺ) said:"Eisa bin Maryam saw a man stealing and said: 'Did you steal?' He said: 'No, by the One besides Whom there is no other God.' 'Eisa said: 'I believe in Allah, and I do not believe what my eyes see
+
+---
+
+### Hadith 2103
+*Al-Albani: Daif, Muhammad Fouad Abd al-Baqi: Daif, Zubair Ali Zai: Daif*
+
+It was narrated from Ibn 'Umar that :the Messenger of Allah (ﷺ) said: "An oath (leads to) either sin or regret
+
+---
+
+### Hadith 2104
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Isnaad Sahih*
+
+It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:'Whoever swears an oath and says In sha' Allah, he will have made an exception
+
+---
+
+### Hadith 2105
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Isnaad Sahih*
+
+It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:"Whoever swears an oath and says In sha' Allah, if he wishes he may go ahead and if he wishes he may not, without having broken his oath
+
+---
+
+### Hadith 2106
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih*
+
+It was narrated from Ibn 'Umar:"Whoever swears an oath and says In sha' Allah, will never break his oath
+
+---
+
+### Hadith 2107
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+It was narrated from Abu Burdah that his father Abu Musa said:"I came to the Messenger of Allah (ﷺ) with a group of Asharites and asked him to give us animals to ride. He said: 'By Allah, I cannot give you anything to ride, and I have nothing to give you to ride.' We stayed as long as Allah willed, then some camels were brought to him. He ordered that we be given three she-camels with fine humps. When we left, we said to one another: 'We came to the Messenger of Allah (ﷺ) to ask him for animals to ride, and he swore by Allah that he would not give us anything to ride, then he gave us something. Let us go back.' So we went to him and we said: 'O Messenger of Allah! We came to you seeking mounts, and you took an oath that you would not give us mounts, then you gave us some mounts.' He said: 'By Allah, I did not give you animals to ride, rather Allah gave you them to ride. I, by Allah, if Allah wills, do not swear and then see something better than it, but I offer expiation for what I swore about, and do that which is better.' Or he said: 'I do that which is better and offer expiation for what I swore about
+
+---
+
+### Hadith 2108
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+It was narrated from 'Adi bin Hatim that :the Messenger of Allah (ﷺ), said: "Whoever swears an oath then sees that something else is better than it, let him do that which is better and offer expiation for what he swore about
+
+---
+
+### Hadith 2109
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Isnaad Sahih*
+
+It was narrated from Abul-Ahwas 'Awf bin Malik Al- Jushami that his father said:"I said: 'O Messenger of Allah, my cousin comes to me and I swear that I will not give him anything or uphold the ties of kinship with him.' He said: 'Offer expiation for what you swore about
+
+---
+
+### Hadith 2110
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Daif*
+
+It was narrated from 'Aishah that the Messenger of Allah (ﷺ) said:"Whoever takes an oath to cut off the ties of kinship, or to do something that is not right, the fulfillment of his vow is not to do that
+
+---
+
+### Hadith 2111
+*Al-Albani: Daif, Muhammad Fouad Abd al-Baqi: Munkar, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Hasan*
+
+It was narrated from 'Amr bin Shu'aib, from his father, that his grandfather said that the Prophet (ﷺ) said:"Whoever swears an oath then sees that something else is better than it, let him not do it, and his leaving it is the expiation for it
+
+---
+
+### Hadith 2112
+*Al-Albani: Daif, Muhammad Fouad Abd al-Baqi: Daif, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Daif*
+
+It was narrated that Ibn Abbas said:"The Messenger of Allah (ﷺ) offered expiation of a Sa' of dates, and he enjoined the people to do likewise. Whoever does not have that (must give) half a Sa' of wheat
+
+---
+
+### Hadith 2113
+*Zubair Ali Zai: Daif*
+
+It was narrated that Ibn 'Abbas said:"A man would give his family food that was abundant and another would give his family food that was barely sufficient, then the following was revealed: 'With the Awsat of that with which you feed your families...’”
+
+---
+
+### Hadith 2114
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih*
+
+It was narrated that Hammam heard Abu Hurairah saying that 'Abul-Qasim (ﷺ) said:"If anyone of you insists on fulfilling what he swore to (after learning that it is wrong) then it is more sinful before Allah than (breaking the oath for which) the expiation that has been enjoined upon him
+
+---
+
+### Hadith 2115
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+It was narrated that Bara' bin 'Azib said:'The Messenger of Allah (ﷺ) commanded us to help fulfill the oath
+
+---
+
+### Hadith 2116
+*Al-Albani: Daif, Muhammad Fouad Abd al-Baqi: Daif, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Daif*
+
+It was narrated from Mujahid, that 'Abdur-Rahman bin Safwan, or Safwan bin 'Abdur- Rahman Al-Qurashi said:"On the Day of the conquest of Makkah, he came with his father and he said: 'O Messenger of Allah, give my father a share of Hijrah.' He said: 'There is no Hijrah.' Then he went away and entered upon 'Abbas and said: 'Do you know who I am?' He said: 'Yes.' Then 'Abbas went out, wearing a shirt and no upper wrap, and said: 'O Messenger of Allah, do you know so-and-so with whom we have friendly ties? He brought his father to swear an oath of allegiance (i.e., promise) to emigrate.' The Prophet (ﷺ) said: 'There is no Hijrah.'" 'Abbas said: 'I adjure you to do it.' The Prophet (ﷺ) stretched forth his hand and touched his hand, and said: 'I have fulfilled the oath of my uncle, but there is no Hijrah."' (Da'if)Another chain with similar wording. Yazid bin Abu Ziyad said: "Meaning: There is no Hijrah from a land whose people have accepted Islam
+
+---
+
+### Hadith 2117
+*Al-Albani: Hasan Sahih, Muhammad Fouad Abd al-Baqi: Hasan Sahih, Shuaib Al Arnaut: Sahih Lighairihi, Zubair Ali Zai: Hasan*
+
+It was narrated from Ibn 'Abbas that the Messenger of Allah (ﷺ) said:'When anyone of you swears an oath, let him not say: 'What Allah wills and what you will.' Rather let him say: 'What Allah wills and then what you will
+
+---
+
+### Hadith 2118
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Daif*
+
+It was narrated from Hudhaifah bin Yaman that :a Muslim man saw in a dream that he met a man from among the People of the Book, who said: "What good people you would be if only you were not committing Shirk. For you say: 'What Allah wills and Muhammad wills."' He mentioned that to the Prophet (ﷺ) and he said: "By Allah, I am aware of that. Say: 'What Allah wills then what Muhammad wills."'Another chain from Tufail bin Sakhbarah, the brother of 'Aishah by her mother, from the Prophet (ﷺ), with similar wording
+
+---
+
+### Hadith 2119
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Hasan Lighairihi, Zubair Ali Zai: Isnaad Hasan*
+
+It was narrated that Suwaid bin Hanzalah said:"We went out looking for the Messenger of Allah (ﷺ) and Wa'il bin Hujr was with us. An enemy of his seized him and the people were reluctant to swear an oath but I swore that he was my brother, so they set him free. We came to the Messenger of Allah (ﷺ) and I told him that the people had been reluctant to swear an oath, but I had sworn that he was my brother. He said: 'You told the truth. The Muslim is the brother of his fellow Muslim
+
+---
+
+### Hadith 2120
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:"The oath is only according to the intention of the one who requests the oath to be taken
+
+---
+
+### Hadith 2121
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:"Your oath is as your companion understands it to be
+
+---
+
+### Hadith 2122
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+It was narrated that 'Abdullah bin 'Umar said:"The Messenger of Allah (ﷺ) forbade vows and said: 'They are just a means of taking wealth from the miserly
+
+---
+
+### Hadith 2123
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih Bukhari*
+
+It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:"Vows do not bring the son of Adam anything unless it has been decreed for him. But he is dominated by Divine preordainment, and will get what is decreed for him. And (vows) are a means of making the miser give something, so what he desires becomes obtainable for him, which was not obtainable before his vow. And Allah says: 'Spend, I will spend on you
+
+---
+
+### Hadith 2124
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+It was narrated from 'Imran bin Husain that the Messenger of Allah (ﷺ) said:"[There is no vow to commit disobedience and] no vow concerning that which the son of Adam does not possess
+
+---
+
+### Hadith 2125
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih*
+
+It was narrated from 'Aishah that the Messenger of Allah (ﷺ) said:"There is no vow to commit disobedience, and the expiation (for such a vow) is the expiation for breaking an oath
+
+---
+
+### Hadith 2126
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Hasan Sahih, Zubair Ali Zai: Sahih Bukhari*
+
+It was narrated from 'Aishah that the Messenger of Allah (ﷺ) said:"Whoever vows to obey Allah, let him obey Him, and whoever vows to disobey Allah, let him not disobey Him
+
+---
+
+### Hadith 2127
+*Al-Albani: Daif, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Hasan*
+
+It was narrated from 'Uqbah bin 'Amit Al-Juhani that the Messenger of Allah (ﷺ) said:"Whoever makes a vow and does not state it specifically, the expiation (for such a vow) is the expiation for breaking an oath
+
+---
+
+### Hadith 2128
+*Al-Albani: Very Daif, Muhammad Fouad Abd al-Baqi: Very Daif, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Hasan*
+
+lt was narrated from Ibn 'Abbas that the Prophet (ﷺ) said:"Whoever makes a vow and does not state it specifically, the expiation (for such a vow) is the expiation for breaking an oath. Whoever makes a vow and is not able to fulfill it, the expiation for that is the expiation for breaking an oath. Whoever makes a vow and is able to fulfill it, let him do so
+
+---
+
+### Hadith 2129
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+It was narrated that 'Umar bin Khattab said:"I made a vow during the Ignorance period and I asked the Prophet (ﷺ) (about it) after I became Muslim. He told me to fulfill my vow
+
+---
+
+### Hadith 2130
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Hasan*
+
+It was narrated from Ibn Abbas that a man came to the Prophet (ﷺ) and said:"O Messenger of Allah, I vowed to offer a sacrifice at Buwanah." He said: "Do you intend any action of Ignorance period?" He said: "No." He said: "Then fulfill your vow
+
+---
+
+### Hadith 2131
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih Lighairihi, Zubair Ali Zai: Daif*
+
+It was narrated from Maimunah bint Kardam Al-Yasariyyah that :her father met the Prophet (ﷺ) when she was riding behind him. He said: "I vowed to offer a sacrifice at Buwanah." The Messenger of Allah (ﷺ) said: "Is there any idol there?" He said: "No." He said: " Fulfill your vow." (Hasan)Another chain with similar wording
+
+---
+
+### Hadith 2132
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih - Agreed Upon*
+
+It was narrated from Ibn 'Abbas' that :Sa'd bin 'Ubadah asked the Messenger of Allah (ﷺ) about a vow which his mother had made, but she had died without fulfilling it. The Messenger of Allah (ﷺ) said: "Fulfill it on her behalf
+
+---
+
+### Hadith 2133
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih Lighairihi, Zubair Ali Zai: Daif*
+
+It was narrated from Jabir bin 'Abdullsh that :a woman came to the Messenger of Allah (ﷺ) and said: "My mother has died, and she had made a vow to fast, but she died before she could fulfill it. The Messenger of Allah (ﷺ) said: 'Let her guardian fast on her behalf
+
+---
+
+### Hadith 2134
+*Al-Albani: Daif, Muhammad Fouad Abd al-Baqi: Daif, Shuaib Al Arnaut: Daif, Zubair Ali Zai: Daif*
+
+It was narrated from Abu Sa'eed Ar-Ru'aini that 'Abdullah bin Malik told him, that :'Uqbah bin 'Amir told him, that his sister vowed to walk, barefoot and bareheaded, and he mentioned that to the Messenger of Allah (ﷺ) He said: "Order her to ride and to cover her head, and to fast for three days
+
+---
+
+### Hadith 2135
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Shuaib Al Arnaut: Sahih, Zubair Ali Zai: Sahih Muslim*
+
+It was narrated that Abu Hurairah said:"The Prophet (ﷺ) saw an old man walking between his two sons, and he said: What is the matter with him?' His sons said: 'A vow, O Messenger of Allah.' He said: 'Let this old man ride, for Allah has no need of you or your vow
+
+---
+
+### Hadith 2136
+*Al-Albani: Sahih, Muhammad Fouad Abd al-Baqi: Sahih, Zubair Ali Zai: Sahih Bukhari*
+
+It was narrated from Ibn Abbas that the :Messenger of Allah (ﷺ) passed by a man in Makkah who was standing in the sun. He said: "What is this?" They said: "He vowed to fast and not to seek shade until night comes, and not to speak, and to remain standing." He said: "Let him speak and seek shade and let him sit down, but let him complete his fast."Another chain from Ibn 'Abbas, from the Prophet (ﷺ), with similar wording. expiation for breaking an oath
+
+---
+

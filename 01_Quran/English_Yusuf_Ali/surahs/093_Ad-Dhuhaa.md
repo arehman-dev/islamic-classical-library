@@ -1,0 +1,38 @@
+---
+surah_number: 93
+surah_name_ar: "سُورَةُ الضُّحَىٰ"
+surah_name_en: "Ad-Dhuhaa"
+english_meaning: "The Morning Hours"
+revelation_type: "Meccan"
+total_ayahs: 11
+language: "English"
+translator: "Abdullah Yusuf Ali"
+---
+
+## Surah 093: Ad-Dhuhaa (سُورَةُ الضُّحَىٰ)
+- **English Translation**: The Morning Hours
+- **Revelation Type**: Meccan
+- **Total Ayahs**: 11
+
+**[1]** By the Glorious Morning Light,
+
+**[2]** And by the Night when it is still,-
+
+**[3]** Thy Guardian-Lord hath not forsaken thee, nor is He displeased.
+
+**[4]** And verily the Hereafter will be better for thee than the present.
+
+**[5]** And soon will thy Guardian-Lord give thee (that wherewith) thou shalt be well-pleased.
+
+**[6]** Did He not find thee an orphan and give thee shelter (and care)?
+
+**[7]** And He found thee wandering, and He gave thee guidance.
+
+**[8]** And He found thee in need, and made thee independent.
+
+**[9]** Therefore, treat not the orphan with harshness,
+
+**[10]** Nor repulse the petitioner (unheard);
+
+**[11]** But the bounty of the Lord - rehearse and proclaim!
+

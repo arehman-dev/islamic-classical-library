@@ -1,0 +1,45 @@
+---
+work: "Tafsir al-Jalalayn (English)"
+arabic_title: "تفسير الجلالين (إنجليزي)"
+author: "Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza)"
+language: "English"
+surah_number: 111
+total_ayahs_annotated: 5
+source: "spa5k/tafsir_api"
+license: "Public Domain / Open Scholarly Heritage"
+---
+
+# Tafsir al-Jalalayn (English) - Surah 111
+### تفسير الجلالين (إنجليزي)
+Author: Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza) | Language: English
+
+### [Ayah 1]
+
+Perish ruined be the hands of Abū Lahab in other words all of him — the use of ‘hands’ here to denote all of him is figurative and is because most actions are performed by them; the statement is an invocation — and perish he! may he be ruined! this tabba is a predicate as where one says ahlakahu’Llāhu wa-qad halak ‘God destroyed him and he indeed is destroyed’. When the Prophet threatened him with the chastisement he said ‘If what my brother’s son says is true then I shall ransom myself from it with my wealth and sons!’; so the following was revealed
+
+---
+
+### [Ayah 2]
+
+His wealth will not avail him nor what he has earned wa-kasab means wa-kasbihi that is to say his sons; mā aghnā means mā yughnī.
+
+---
+
+### [Ayah 3]
+
+He will soon enter a Fire of flames that is to say a fire that is flaming and ignited this statement is the source of his nickname which was given to him on account of his flaming reddish fair face
+
+---
+
+### [Ayah 4]
+
+and his wife wa’mra’atuhu is a supplement to the person of the verb yaslā ‘he will enter’ separated by the clause of the direct object and its qualification — and this was Umm Jamīl — the carrier read hammālatu or hammālata of firewood cactus and thorns which she used to fling into the path of the Prophet s.
+
+---
+
+### [Ayah 5]
+
+with a rope of palm-fibre around her neck fī jīdihā hablun min masadin is a circumstantial qualifier referring to hammālata’l-hatab which in turn is either a description of imra’atahu ‘his wife’ or the predicate of an implied subject.
+
+---
+

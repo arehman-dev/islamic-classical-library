@@ -1,0 +1,315 @@
+---
+work: "Tafsir al-Jalalayn (English)"
+arabic_title: "تفسير الجلالين (إنجليزي)"
+author: "Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza)"
+language: "English"
+surah_number: 77
+total_ayahs_annotated: 50
+source: "spa5k/tafsir_api"
+license: "Public Domain / Open Scholarly Heritage"
+---
+
+# Tafsir al-Jalalayn (English) - Surah 077
+### تفسير الجلالين (إنجليزي)
+Author: Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti (Trans. Feras Hamza) | Language: English
+
+### [Ayah 1]
+
+By those sent in succession ‘urfan that is by the winds that follow one another in succession like the mane ‘urf of a horse one part of hair coming after the other ‘urfan is in the accusative because it is a circumstantial qualifier;
+
+---
+
+### [Ayah 10]
+
+and when the mountains are blown away crushed to pieces and blown in the air
+
+---
+
+### [Ayah 11]
+
+and when the time is set for the testimony of the messengers read uqqitat or wuqqitat that is to say when they are gathered to an appointed time
+
+---
+
+### [Ayah 12]
+
+For what day — for a tremendous day — has it been appointed? it has been appointed for witnessing of the messengers against their communities to the effect that they delivered their messages from God.
+
+---
+
+### [Ayah 13]
+
+For the Day of Decision for creatures from this one may infer the response to the clauses beginning with idhā ‘when’ in other words ‘when … the decision will be made for all creatures’.
+
+---
+
+### [Ayah 14]
+
+And how would you know what the Day of Decision is? — emphasising the enormity of its terror.
+
+---
+
+### [Ayah 15]
+
+Woe to the deniers on that day! — a threat of chastisement for them.
+
+---
+
+### [Ayah 16]
+
+Did We not destroy the ancients for their denial in other words We certainly destroyed them
+
+---
+
+### [Ayah 17]
+
+then made the latter folk follow them? the latter folk of those who denied such as the disbelievers of Mecca whom We will destroy.
+
+---
+
+### [Ayah 18]
+
+So just as We dealt with those who denied will We deal with the guilty with every individual who will be guilty in the future and destroy them.
+
+---
+
+### [Ayah 19]
+
+Woe to the deniers on that day! — reiterated for emphasis.
+
+---
+
+### [Ayah 2]
+
+by the raging hurricanes the violent winds;
+
+---
+
+### [Ayah 20]
+
+Did We not create you from a base fluid one that is delicate — and this is semen
+
+---
+
+### [Ayah 21]
+
+then lodged it in a secure abode that is the womb
+
+---
+
+### [Ayah 22]
+
+for a known span? namely the time for delivery.
+
+---
+
+### [Ayah 23]
+
+Thus We were able to do this; so how excellent able ones We are!
+
+---
+
+### [Ayah 24]
+
+Woe to the deniers on that day!
+
+---
+
+### [Ayah 25]
+
+Have We not made the earth a receptacle kifātan is a verbal noun from kafata meaning damma ‘enclosed’ that is an enclosure
+
+---
+
+### [Ayah 26]
+
+for the living on its surface and the dead inside it
+
+---
+
+### [Ayah 27]
+
+and set therein soaring mountains and give you sweet water to drink?
+
+---
+
+### [Ayah 28]
+
+Woe to the deniers on that day!
+
+---
+
+### [Ayah 29]
+
+And on the Day of Resurrection it will be said to the deniers Depart to that chastisement which you used to deny!
+
+---
+
+### [Ayah 3]
+
+by the sweeping spreaders by the winds that scatter the rains;
+
+---
+
+### [Ayah 30]
+
+Depart to a triple-forked shadow — this is the smoke of Hell which as it rises splits into three parts because of its magnitude —
+
+---
+
+### [Ayah 31]
+
+which is neither shady neither protective unable to shade them from the heat of that Day nor of any avail against nor wards off from them anything of the flame the Fire.
+
+---
+
+### [Ayah 32]
+
+Indeed it that is the Fire throws up sparks namely those flame that are thrown by it into the air huge like palace edifices in terms of their enormity and vertical extension
+
+---
+
+### [Ayah 33]
+
+as if they were dark yellow camels jimālātun is the plural of jimalatun the plural of jamalun; a variant reading has jimālatun in terms of their shape and colour. In hadīth it is stated ‘The sparks of humans thrown into the air by the Fire are black as pitch qīr’; the Arabs call dark camels sufr ‘yellow’ because a touch of yellow is mixed with their blackish colour and therefore it is said that ‘yellow’ in this verse actually means ‘black’ on account of what has been mentioned; but some say no to this interpretation; sharar is the plural of sharāra; qīr is qār ‘pitch’.
+
+---
+
+### [Ayah 34]
+
+Woe to the deniers on that day!
+
+---
+
+### [Ayah 35]
+
+This namely the Day of Resurrection is the day in which they will not utter anything
+
+---
+
+### [Ayah 36]
+
+nor will they be given permission to offer excuses and so offer excuses fa-ya‘tadhirūna is a supplement to yu’dhanu ‘given permission’ but without being a direct result of it since it belongs within the confines of the general denial of permission in other words ‘there will be no permission hence no excuses’.
+
+---
+
+### [Ayah 37]
+
+Woe to the deniers on that day!
+
+---
+
+### [Ayah 38]
+
+‘This is the Day of Decision. We have brought you O deniers from this community and the ancients together the ancients from among the deniers before you so that you will all be reckoned with and chastised together;
+
+---
+
+### [Ayah 39]
+
+So if you have any stratagems any ploy to ward off your chastisement try your strategems against Me!’ — put them into effect!
+
+---
+
+### [Ayah 4]
+
+by the decisive discriminators that is by the verses of the Qur’ān which discriminate between truth and falsehood and between what is lawful and what is unlawful;
+
+---
+
+### [Ayah 40]
+
+Woe to the deniers on that day!
+
+---
+
+### [Ayah 41]
+
+Truly the God-fearing will be amid shades that is amid clusters of trees since there is no sun therein from whose heat to seek shade and springs issuing forth with water
+
+---
+
+### [Ayah 42]
+
+and fruits such as they desire this is meant to point out that eating and drinking in Paradise is done according to their desires in contrast to the case in this world where it is predominantly determined by what people are able to procure. It will also be said to them
+
+---
+
+### [Ayah 43]
+
+‘Eat and drink in full enjoyment hanī’an is a circumstantial qualifier in other words mutahanni’īna for what you used to do’ in the way of obedience.
+
+---
+
+### [Ayah 44]
+
+Indeed so in the same way that We reward the God-fearing do We reward the virtuous.
+
+---
+
+### [Ayah 45]
+
+Woe to the deniers on that day!
+
+---
+
+### [Ayah 46]
+
+‘Eat and enjoy — addressing the disbelievers in this world — for a little time at the end of which comes death — this is meant as a threat for them. Indeed you are guilty!’
+
+---
+
+### [Ayah 47]
+
+Woe to the deniers on that day!
+
+---
+
+### [Ayah 48]
+
+For when it is said to them ‘Bow down!’ perform prayer they do not bow down they do not perform prayer.
+
+---
+
+### [Ayah 49]
+
+Woe to the deniers on that day!
+
+---
+
+### [Ayah 5]
+
+by the casters of the remembrance that is by angels that descend with the revelation upon the prophets and messengers casting the revelation onto the various communities of mankind
+
+---
+
+### [Ayah 50]
+
+In what discourse then after this namely the Qur’ān will they believe? In other words they cannot believe in any other of God’s Scriptures after having denied this Qur’ān since it comprises that inimitability i‘jāz which none of the others do.
+
+---
+
+### [Ayah 6]
+
+to excuse or to warn that is to say in order to excuse or to warn on behalf of God exalted be He a variant reading for nudhran and ‘udhran has nudhuran and ‘udhuran.
+
+---
+
+### [Ayah 7]
+
+Surely that which you are promised O disbelievers of Mecca in the way of resurrection and chastisement will befall it will be without any doubt.
+
+---
+
+### [Ayah 8]
+
+So when the stars are obliterated when their light is extinguished
+
+---
+
+### [Ayah 9]
+
+and when the heaven is rent asunder
+
+---
+

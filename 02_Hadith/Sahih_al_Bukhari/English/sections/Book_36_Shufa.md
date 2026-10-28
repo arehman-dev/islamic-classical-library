@@ -1,0 +1,26 @@
+---
+collection: "Sahih al-Bukhari"
+book_number: "36"
+book_title: "Shuf'a"
+language: "English"
+total_hadiths: 3
+---
+
+# Sahih al-Bukhari - Book 36: Shuf'a
+Language: English (Dr. Muhammad Muhsin Khan)
+
+### Hadith 2257
+Narrated Jabir bin `Abdullah:Allah's Messenger (ﷺ) gave a verdict regarding Shuf'a in every undivided joint thing (property). But if the limits are defined (or demarcated) or the ways and streets are fixed, then there is no pre-emption
+
+---
+
+### Hadith 2258
+Narrated `Amr bin Ash-Sharid:While I was standing with Sa`d bin Abi Waqqas, Al-Miswar bin Makhrama came and put his hand on my shoulder. Meanwhile Abu Rafi`, the freed slave of the Prophet (ﷺ) came and asked Sa`d to buy from him the (two) dwellings which were in his house. Sa`d said, "By Allah I will not buy them." Al- Miswar said, "By Allah, you shall buy them." Sa`d replied, "By Allah, I will not pay more than four thousand (Dirhams) by installments." Abu Rafi` said, "I have been offered five hundred Dinars (for it) and had I not heard the Prophet (ﷺ) saying, 'The neighbor has more right than anyone else because of his nearness, I would not give them to you for four-thousand (Dirhams) while I am offered five-hundred Dinars (one Dinar equals ten Dirhams) for them." So, he sold it to Sa`d
+
+---
+
+### Hadith 2259
+Narrated Aisha:I said, "O Allah's Messenger (ﷺ)! I have two neighbors and would like to know to which of them I should give presents." He replied, "To the one whose door is nearer to you
+
+---
+

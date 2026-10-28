@@ -1,0 +1,45 @@
+---
+work: "Tafsir al-Jalalayn"
+arabic_title: "تفسير الجلالين"
+author: "Jalal al-Din al-Mahalli (d. 864 AH) & Jalal al-Din al-Suyuti (d. 911 AH)"
+language: "Arabic"
+surah_number: 109
+total_ayahs_annotated: 5
+source: "spa5k/tafsir_api"
+license: "Public Domain / Open Scholarly Heritage"
+---
+
+# Tafsir al-Jalalayn - Surah 109
+### تفسير الجلالين
+Author: Jalal al-Din al-Mahalli (d. 864 AH) & Jalal al-Din al-Suyuti (d. 911 AH) | Language: Arabic
+
+### [Ayah 2]
+
+﴿لا أعْبُد﴾ فِي الحال ﴿ما تَعْبُدُونَ﴾ مِن الأَصْنام
+
+---
+
+### [Ayah 3]
+
+﴿ولا أنْتُمْ عابِدُونَ﴾ فِي الحال ﴿ما أعْبُد﴾ وهُوَ اللَّه تَعالى وحْده
+
+---
+
+### [Ayah 4]
+
+﴿ولا أنا عابِد﴾ فِي الِاسْتِقْبال ﴿ما عَبَدْتُمْ﴾
+
+---
+
+### [Ayah 5]
+
+﴿ولا أنْتُمْ عابِدُونَ﴾ فِي الِاسْتِقْبال ﴿ما أعْبُد﴾ عَلِمَ اللَّه مِنهُمْ أنَّهُمْ لا يُؤْمِنُونَ، وإطْلاق ما عَلى اللَّه عَلى وجْه المُقابَلَة.
+
+---
+
+### [Ayah 6]
+
+﴿لَكُمْ دِينكُمْ﴾ الشِّرْك ﴿ولِيَ دِين﴾ الإسْلام وهَذا قَبْل أنْ يُؤْمَر بِالحَرْبِ وحَذَفَ ياء الإضافَة القُرّاء السَّبْعَة وقْفًا ووَصْلًا وأَثْبَتَها يَعْقُوب فِي الحالَيْنِ.
+
+---
+
